@@ -1,0 +1,41 @@
+county,subcounty,season,metric,days_per_decade,p_value
+Bungoma,Kanduyi,long_rains,onset_doy,2.86,0.363
+Bungoma,Kanduyi,long_rains,max_dry_spell,0.0,0.954
+Bungoma,Kanduyi,short_rains,onset_doy,-14.81,0.001
+Bungoma,Kanduyi,short_rains,max_dry_spell,0.67,0.503
+Bungoma,Kimilili,long_rains,onset_doy,1.61,0.712
+Bungoma,Kimilili,long_rains,max_dry_spell,0.0,0.989
+Bungoma,Kimilili,short_rains,onset_doy,0.0,0.443
+Bungoma,Kimilili,short_rains,max_dry_spell,0.0,0.887
+Bungoma,Webuye East,long_rains,onset_doy,-0.91,0.812
+Bungoma,Webuye East,long_rains,max_dry_spell,0.0,0.875
+Bungoma,Webuye East,short_rains,onset_doy,-9.0,0.007
+Bungoma,Webuye East,short_rains,max_dry_spell,0.53,0.459
+Kakamega,Butere,long_rains,onset_doy,0.91,0.579
+Kakamega,Butere,long_rains,max_dry_spell,0.56,0.217
+Kakamega,Butere,short_rains,onset_doy,0.59,0.415
+Kakamega,Butere,short_rains,max_dry_spell,1.0,0.083
+Kakamega,Lurambi,long_rains,onset_doy,6.47,0.03
+Kakamega,Lurambi,long_rains,max_dry_spell,1.43,0.031
+Kakamega,Lurambi,short_rains,onset_doy,-1.11,0.569
+Kakamega,Lurambi,short_rains,max_dry_spell,1.67,0.057
+Kakamega,Malava,long_rains,onset_doy,-1.9,0.414
+Kakamega,Malava,long_rains,max_dry_spell,0.0,0.977
+Kakamega,Malava,short_rains,onset_doy,-11.33,0.003
+Kakamega,Malava,short_rains,max_dry_spell,0.0,0.842
+Kakamega,Mumias West,long_rains,onset_doy,1.43,0.417
+Kakamega,Mumias West,long_rains,max_dry_spell,1.25,0.022
+Kakamega,Mumias West,short_rains,onset_doy,0.65,0.392
+Kakamega,Mumias West,short_rains,max_dry_spell,2.0,0.011
+Trans Nzoia,Endebess,long_rains,onset_doy,10.32,0.013
+Trans Nzoia,Endebess,long_rains,max_dry_spell,1.25,0.21
+Trans Nzoia,Endebess,short_rains,onset_doy,0.0,0.823
+Trans Nzoia,Endebess,short_rains,max_dry_spell,1.11,0.512
+Trans Nzoia,Kiminini,long_rains,onset_doy,4.5,0.287
+Trans Nzoia,Kiminini,long_rains,max_dry_spell,1.11,0.292
+Trans Nzoia,Kiminini,short_rains,onset_doy,1.03,0.202
+Trans Nzoia,Kiminini,short_rains,max_dry_spell,2.17,0.131
+Trans Nzoia,Saboti,long_rains,onset_doy,3.33,0.363
+Trans Nzoia,Saboti,long_rains,max_dry_spell,1.18,0.273
+Trans Nzoia,Saboti,short_rains,onset_doy,0.45,0.406
+Trans Nzoia,Saboti,short_rains,max_dry_spell,2.73,0.039

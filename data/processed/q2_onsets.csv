@@ -1,0 +1,701 @@
+county,subcounty,year,season,false_start,onset_doy
+Bungoma,Kanduyi,1991,long_rains,False,71.0
+Bungoma,Kanduyi,1991,short_rains,False,284.0
+Bungoma,Kanduyi,1992,long_rains,True,89.0
+Bungoma,Kanduyi,1992,short_rains,,
+Bungoma,Kanduyi,1993,long_rains,False,79.0
+Bungoma,Kanduyi,1993,short_rains,False,305.0
+Bungoma,Kanduyi,1994,long_rains,False,61.0
+Bungoma,Kanduyi,1994,short_rains,False,293.0
+Bungoma,Kanduyi,1995,long_rains,False,60.0
+Bungoma,Kanduyi,1995,short_rains,False,295.0
+Bungoma,Kanduyi,1996,long_rains,True,81.0
+Bungoma,Kanduyi,1996,short_rains,False,259.0
+Bungoma,Kanduyi,1997,long_rains,False,84.0
+Bungoma,Kanduyi,1997,short_rains,False,290.0
+Bungoma,Kanduyi,1998,long_rains,True,84.0
+Bungoma,Kanduyi,1998,short_rains,False,267.0
+Bungoma,Kanduyi,1999,long_rains,False,65.0
+Bungoma,Kanduyi,1999,short_rains,True,315.0
+Bungoma,Kanduyi,2000,long_rains,False,68.0
+Bungoma,Kanduyi,2000,short_rains,False,277.0
+Bungoma,Kanduyi,2001,long_rains,False,87.0
+Bungoma,Kanduyi,2001,short_rains,False,280.0
+Bungoma,Kanduyi,2002,long_rains,False,60.0
+Bungoma,Kanduyi,2002,short_rains,False,307.0
+Bungoma,Kanduyi,2003,long_rains,True,104.0
+Bungoma,Kanduyi,2003,short_rains,False,332.0
+Bungoma,Kanduyi,2004,long_rains,False,47.0
+Bungoma,Kanduyi,2004,short_rains,True,304.0
+Bungoma,Kanduyi,2005,long_rains,True,76.0
+Bungoma,Kanduyi,2005,short_rains,True,
+Bungoma,Kanduyi,2006,long_rains,False,66.0
+Bungoma,Kanduyi,2006,short_rains,False,291.0
+Bungoma,Kanduyi,2007,long_rains,False,56.0
+Bungoma,Kanduyi,2007,short_rains,False,294.0
+Bungoma,Kanduyi,2008,long_rains,False,78.0
+Bungoma,Kanduyi,2008,short_rains,False,277.0
+Bungoma,Kanduyi,2009,long_rains,False,89.0
+Bungoma,Kanduyi,2009,short_rains,False,245.0
+Bungoma,Kanduyi,2010,long_rains,True,78.0
+Bungoma,Kanduyi,2010,short_rains,,
+Bungoma,Kanduyi,2011,long_rains,False,78.0
+Bungoma,Kanduyi,2011,short_rains,False,259.0
+Bungoma,Kanduyi,2012,long_rains,True,96.0
+Bungoma,Kanduyi,2012,short_rains,True,286.0
+Bungoma,Kanduyi,2013,long_rains,False,79.0
+Bungoma,Kanduyi,2013,short_rains,,
+Bungoma,Kanduyi,2014,long_rains,False,70.0
+Bungoma,Kanduyi,2014,short_rains,False,246.0
+Bungoma,Kanduyi,2015,long_rains,False,82.0
+Bungoma,Kanduyi,2015,short_rains,False,301.0
+Bungoma,Kanduyi,2016,long_rains,False,91.0
+Bungoma,Kanduyi,2016,short_rains,True,
+Bungoma,Kanduyi,2017,long_rains,False,56.0
+Bungoma,Kanduyi,2017,short_rains,False,245.0
+Bungoma,Kanduyi,2018,long_rains,False,58.0
+Bungoma,Kanduyi,2018,short_rains,False,244.0
+Bungoma,Kanduyi,2019,long_rains,True,99.0
+Bungoma,Kanduyi,2019,short_rains,False,253.0
+Bungoma,Kanduyi,2020,long_rains,False,59.0
+Bungoma,Kanduyi,2020,short_rains,False,249.0
+Bungoma,Kanduyi,2021,long_rains,False,90.0
+Bungoma,Kanduyi,2021,short_rains,False,244.0
+Bungoma,Kanduyi,2022,long_rains,False,105.0
+Bungoma,Kanduyi,2022,short_rains,False,244.0
+Bungoma,Kanduyi,2023,long_rains,False,73.0
+Bungoma,Kanduyi,2023,short_rains,False,248.0
+Bungoma,Kanduyi,2024,long_rains,True,91.0
+Bungoma,Kanduyi,2024,short_rains,False,248.0
+Bungoma,Kanduyi,2025,long_rains,False,67.0
+Bungoma,Kanduyi,2025,short_rains,False,277.0
+Bungoma,Kimilili,1991,long_rains,True,84.0
+Bungoma,Kimilili,1991,short_rains,False,244.0
+Bungoma,Kimilili,1992,long_rains,False,90.0
+Bungoma,Kimilili,1992,short_rains,False,245.0
+Bungoma,Kimilili,1993,long_rains,False,114.0
+Bungoma,Kimilili,1993,short_rains,False,244.0
+Bungoma,Kimilili,1994,long_rains,False,62.0
+Bungoma,Kimilili,1994,short_rains,False,244.0
+Bungoma,Kimilili,1995,long_rains,False,46.0
+Bungoma,Kimilili,1995,short_rains,False,244.0
+Bungoma,Kimilili,1996,long_rains,True,79.0
+Bungoma,Kimilili,1996,short_rains,False,245.0
+Bungoma,Kimilili,1997,long_rains,False,88.0
+Bungoma,Kimilili,1997,short_rains,False,286.0
+Bungoma,Kimilili,1998,long_rains,True,95.0
+Bungoma,Kimilili,1998,short_rains,False,252.0
+Bungoma,Kimilili,1999,long_rains,False,67.0
+Bungoma,Kimilili,1999,short_rains,False,244.0
+Bungoma,Kimilili,2000,long_rains,True,114.0
+Bungoma,Kimilili,2000,short_rains,False,245.0
+Bungoma,Kimilili,2001,long_rains,False,65.0
+Bungoma,Kimilili,2001,short_rains,False,245.0
+Bungoma,Kimilili,2002,long_rains,False,61.0
+Bungoma,Kimilili,2002,short_rains,False,283.0
+Bungoma,Kimilili,2003,long_rains,True,105.0
+Bungoma,Kimilili,2003,short_rains,True,
+Bungoma,Kimilili,2004,long_rains,True,88.0
+Bungoma,Kimilili,2004,short_rains,False,256.0
+Bungoma,Kimilili,2005,long_rains,True,95.0
+Bungoma,Kimilili,2005,short_rains,True,284.0
+Bungoma,Kimilili,2006,long_rains,False,55.0
+Bungoma,Kimilili,2006,short_rains,False,250.0
+Bungoma,Kimilili,2007,long_rains,False,55.0
+Bungoma,Kimilili,2007,short_rains,False,244.0
+Bungoma,Kimilili,2008,long_rains,False,73.0
+Bungoma,Kimilili,2008,short_rains,False,250.0
+Bungoma,Kimilili,2009,long_rains,False,101.0
+Bungoma,Kimilili,2009,short_rains,False,244.0
+Bungoma,Kimilili,2010,long_rains,True,80.0
+Bungoma,Kimilili,2010,short_rains,False,244.0
+Bungoma,Kimilili,2011,long_rains,True,74.0
+Bungoma,Kimilili,2011,short_rains,False,244.0
+Bungoma,Kimilili,2012,long_rains,True,92.0
+Bungoma,Kimilili,2012,short_rains,False,246.0
+Bungoma,Kimilili,2013,long_rains,False,78.0
+Bungoma,Kimilili,2013,short_rains,False,246.0
+Bungoma,Kimilili,2014,long_rains,True,70.0
+Bungoma,Kimilili,2014,short_rains,False,244.0
+Bungoma,Kimilili,2015,long_rains,True,82.0
+Bungoma,Kimilili,2015,short_rains,False,244.0
+Bungoma,Kimilili,2016,long_rains,False,104.0
+Bungoma,Kimilili,2016,short_rains,False,247.0
+Bungoma,Kimilili,2017,long_rains,False,107.0
+Bungoma,Kimilili,2017,short_rains,False,245.0
+Bungoma,Kimilili,2018,long_rains,False,58.0
+Bungoma,Kimilili,2018,short_rains,True,281.0
+Bungoma,Kimilili,2019,long_rains,True,111.0
+Bungoma,Kimilili,2019,short_rains,False,252.0
+Bungoma,Kimilili,2020,long_rains,False,60.0
+Bungoma,Kimilili,2020,short_rains,False,248.0
+Bungoma,Kimilili,2021,long_rains,False,93.0
+Bungoma,Kimilili,2021,short_rains,False,244.0
+Bungoma,Kimilili,2022,long_rains,False,109.0
+Bungoma,Kimilili,2022,short_rains,False,244.0
+Bungoma,Kimilili,2023,long_rains,False,73.0
+Bungoma,Kimilili,2023,short_rains,False,248.0
+Bungoma,Kimilili,2024,long_rains,True,92.0
+Bungoma,Kimilili,2024,short_rains,False,245.0
+Bungoma,Kimilili,2025,long_rains,False,67.0
+Bungoma,Kimilili,2025,short_rains,False,254.0
+Bungoma,Webuye East,1991,long_rains,False,86.0
+Bungoma,Webuye East,1991,short_rains,,
+Bungoma,Webuye East,1992,long_rains,False,98.0
+Bungoma,Webuye East,1992,short_rains,False,292.0
+Bungoma,Webuye East,1993,long_rains,False,114.0
+Bungoma,Webuye East,1993,short_rains,,
+Bungoma,Webuye East,1994,long_rains,False,85.0
+Bungoma,Webuye East,1994,short_rains,False,293.0
+Bungoma,Webuye East,1995,long_rains,False,60.0
+Bungoma,Webuye East,1995,short_rains,False,296.0
+Bungoma,Webuye East,1996,long_rains,False,86.0
+Bungoma,Webuye East,1996,short_rains,False,247.0
+Bungoma,Webuye East,1997,long_rains,False,87.0
+Bungoma,Webuye East,1997,short_rains,False,290.0
+Bungoma,Webuye East,1998,long_rains,False,100.0
+Bungoma,Webuye East,1998,short_rains,False,281.0
+Bungoma,Webuye East,1999,long_rains,False,73.0
+Bungoma,Webuye East,1999,short_rains,False,280.0
+Bungoma,Webuye East,2000,long_rains,True,
+Bungoma,Webuye East,2000,short_rains,False,265.0
+Bungoma,Webuye East,2001,long_rains,False,87.0
+Bungoma,Webuye East,2001,short_rains,True,
+Bungoma,Webuye East,2002,long_rains,False,107.0
+Bungoma,Webuye East,2002,short_rains,True,
+Bungoma,Webuye East,2003,long_rains,False,105.0
+Bungoma,Webuye East,2003,short_rains,,
+Bungoma,Webuye East,2004,long_rains,False,100.0
+Bungoma,Webuye East,2004,short_rains,True,304.0
+Bungoma,Webuye East,2005,long_rains,False,117.0
+Bungoma,Webuye East,2005,short_rains,,
+Bungoma,Webuye East,2006,long_rains,False,60.0
+Bungoma,Webuye East,2006,short_rains,False,250.0
+Bungoma,Webuye East,2007,long_rains,False,102.0
+Bungoma,Webuye East,2007,short_rains,,
+Bungoma,Webuye East,2008,long_rains,False,86.0
+Bungoma,Webuye East,2008,short_rains,False,252.0
+Bungoma,Webuye East,2009,long_rains,False,102.0
+Bungoma,Webuye East,2009,short_rains,False,250.0
+Bungoma,Webuye East,2010,long_rains,True,79.0
+Bungoma,Webuye East,2010,short_rains,False,279.0
+Bungoma,Webuye East,2011,long_rains,False,121.0
+Bungoma,Webuye East,2011,short_rains,False,259.0
+Bungoma,Webuye East,2012,long_rains,False,107.0
+Bungoma,Webuye East,2012,short_rains,True,286.0
+Bungoma,Webuye East,2013,long_rains,False,96.0
+Bungoma,Webuye East,2013,short_rains,False,312.0
+Bungoma,Webuye East,2014,long_rains,False,71.0
+Bungoma,Webuye East,2014,short_rains,False,248.0
+Bungoma,Webuye East,2015,long_rains,False,81.0
+Bungoma,Webuye East,2015,short_rains,False,305.0
+Bungoma,Webuye East,2016,long_rains,False,103.0
+Bungoma,Webuye East,2016,short_rains,True,
+Bungoma,Webuye East,2017,long_rains,False,106.0
+Bungoma,Webuye East,2017,short_rains,False,244.0
+Bungoma,Webuye East,2018,long_rains,False,58.0
+Bungoma,Webuye East,2018,short_rains,True,281.0
+Bungoma,Webuye East,2019,long_rains,True,111.0
+Bungoma,Webuye East,2019,short_rains,False,244.0
+Bungoma,Webuye East,2020,long_rains,False,62.0
+Bungoma,Webuye East,2020,short_rains,False,249.0
+Bungoma,Webuye East,2021,long_rains,False,88.0
+Bungoma,Webuye East,2021,short_rains,False,244.0
+Bungoma,Webuye East,2022,long_rains,True,104.0
+Bungoma,Webuye East,2022,short_rains,False,244.0
+Bungoma,Webuye East,2023,long_rains,False,73.0
+Bungoma,Webuye East,2023,short_rains,False,248.0
+Bungoma,Webuye East,2024,long_rains,True,92.0
+Bungoma,Webuye East,2024,short_rains,False,246.0
+Bungoma,Webuye East,2025,long_rains,False,68.0
+Bungoma,Webuye East,2025,short_rains,False,269.0
+Kakamega,Butere,1991,long_rains,False,64.0
+Kakamega,Butere,1991,short_rains,False,244.0
+Kakamega,Butere,1992,long_rains,True,89.0
+Kakamega,Butere,1992,short_rains,False,246.0
+Kakamega,Butere,1993,long_rains,False,77.0
+Kakamega,Butere,1993,short_rains,False,288.0
+Kakamega,Butere,1994,long_rains,False,53.0
+Kakamega,Butere,1994,short_rains,False,244.0
+Kakamega,Butere,1995,long_rains,False,46.0
+Kakamega,Butere,1995,short_rains,False,251.0
+Kakamega,Butere,1996,long_rains,False,47.0
+Kakamega,Butere,1996,short_rains,False,245.0
+Kakamega,Butere,1997,long_rains,False,83.0
+Kakamega,Butere,1997,short_rains,False,278.0
+Kakamega,Butere,1998,long_rains,False,65.0
+Kakamega,Butere,1998,short_rains,False,245.0
+Kakamega,Butere,1999,long_rains,False,59.0
+Kakamega,Butere,1999,short_rains,False,244.0
+Kakamega,Butere,2000,long_rains,False,59.0
+Kakamega,Butere,2000,short_rains,False,263.0
+Kakamega,Butere,2001,long_rains,False,65.0
+Kakamega,Butere,2001,short_rains,False,269.0
+Kakamega,Butere,2002,long_rains,False,60.0
+Kakamega,Butere,2002,short_rains,False,255.0
+Kakamega,Butere,2003,long_rains,False,83.0
+Kakamega,Butere,2003,short_rains,False,249.0
+Kakamega,Butere,2004,long_rains,False,58.0
+Kakamega,Butere,2004,short_rains,False,249.0
+Kakamega,Butere,2005,long_rains,False,57.0
+Kakamega,Butere,2005,short_rains,False,253.0
+Kakamega,Butere,2006,long_rains,False,53.0
+Kakamega,Butere,2006,short_rains,False,249.0
+Kakamega,Butere,2007,long_rains,False,55.0
+Kakamega,Butere,2007,short_rains,False,246.0
+Kakamega,Butere,2008,long_rains,False,78.0
+Kakamega,Butere,2008,short_rains,False,249.0
+Kakamega,Butere,2009,long_rains,False,88.0
+Kakamega,Butere,2009,short_rains,False,244.0
+Kakamega,Butere,2010,long_rains,False,47.0
+Kakamega,Butere,2010,short_rains,False,247.0
+Kakamega,Butere,2011,long_rains,False,78.0
+Kakamega,Butere,2011,short_rains,False,244.0
+Kakamega,Butere,2012,long_rains,False,56.0
+Kakamega,Butere,2012,short_rains,False,249.0
+Kakamega,Butere,2013,long_rains,False,66.0
+Kakamega,Butere,2013,short_rains,False,264.0
+Kakamega,Butere,2014,long_rains,False,69.0
+Kakamega,Butere,2014,short_rains,False,246.0
+Kakamega,Butere,2015,long_rains,False,80.0
+Kakamega,Butere,2015,short_rains,False,288.0
+Kakamega,Butere,2016,long_rains,False,68.0
+Kakamega,Butere,2016,short_rains,False,259.0
+Kakamega,Butere,2017,long_rains,False,52.0
+Kakamega,Butere,2017,short_rains,False,246.0
+Kakamega,Butere,2018,long_rains,False,58.0
+Kakamega,Butere,2018,short_rains,False,245.0
+Kakamega,Butere,2019,long_rains,True,103.0
+Kakamega,Butere,2019,short_rains,False,267.0
+Kakamega,Butere,2020,long_rains,False,59.0
+Kakamega,Butere,2020,short_rains,False,250.0
+Kakamega,Butere,2021,long_rains,False,46.0
+Kakamega,Butere,2021,short_rains,False,244.0
+Kakamega,Butere,2022,long_rains,False,81.0
+Kakamega,Butere,2022,short_rains,False,252.0
+Kakamega,Butere,2023,long_rains,False,58.0
+Kakamega,Butere,2023,short_rains,False,252.0
+Kakamega,Butere,2024,long_rains,True,91.0
+Kakamega,Butere,2024,short_rains,False,262.0
+Kakamega,Butere,2025,long_rains,False,67.0
+Kakamega,Butere,2025,short_rains,False,254.0
+Kakamega,Lurambi,1991,long_rains,False,46.0
+Kakamega,Lurambi,1991,short_rains,False,269.0
+Kakamega,Lurambi,1992,long_rains,False,77.0
+Kakamega,Lurambi,1992,short_rains,False,253.0
+Kakamega,Lurambi,1993,long_rains,False,66.0
+Kakamega,Lurambi,1993,short_rains,False,302.0
+Kakamega,Lurambi,1994,long_rains,False,54.0
+Kakamega,Lurambi,1994,short_rains,False,248.0
+Kakamega,Lurambi,1995,long_rains,False,46.0
+Kakamega,Lurambi,1995,short_rains,False,244.0
+Kakamega,Lurambi,1996,long_rains,False,48.0
+Kakamega,Lurambi,1996,short_rains,False,259.0
+Kakamega,Lurambi,1997,long_rains,False,83.0
+Kakamega,Lurambi,1997,short_rains,False,278.0
+Kakamega,Lurambi,1998,long_rains,False,66.0
+Kakamega,Lurambi,1998,short_rains,False,246.0
+Kakamega,Lurambi,1999,long_rains,False,65.0
+Kakamega,Lurambi,1999,short_rains,False,244.0
+Kakamega,Lurambi,2000,long_rains,False,89.0
+Kakamega,Lurambi,2000,short_rains,False,277.0
+Kakamega,Lurambi,2001,long_rains,False,53.0
+Kakamega,Lurambi,2001,short_rains,False,258.0
+Kakamega,Lurambi,2002,long_rains,False,63.0
+Kakamega,Lurambi,2002,short_rains,False,255.0
+Kakamega,Lurambi,2003,long_rains,False,83.0
+Kakamega,Lurambi,2003,short_rains,False,275.0
+Kakamega,Lurambi,2004,long_rains,False,47.0
+Kakamega,Lurambi,2004,short_rains,False,247.0
+Kakamega,Lurambi,2005,long_rains,False,57.0
+Kakamega,Lurambi,2005,short_rains,False,250.0
+Kakamega,Lurambi,2006,long_rains,False,57.0
+Kakamega,Lurambi,2006,short_rains,False,293.0
+Kakamega,Lurambi,2007,long_rains,False,99.0
+Kakamega,Lurambi,2007,short_rains,False,256.0
+Kakamega,Lurambi,2008,long_rains,False,79.0
+Kakamega,Lurambi,2008,short_rains,False,276.0
+Kakamega,Lurambi,2009,long_rains,False,88.0
+Kakamega,Lurambi,2009,short_rains,False,249.0
+Kakamega,Lurambi,2010,long_rains,False,47.0
+Kakamega,Lurambi,2010,short_rains,False,257.0
+Kakamega,Lurambi,2011,long_rains,False,74.0
+Kakamega,Lurambi,2011,short_rains,False,246.0
+Kakamega,Lurambi,2012,long_rains,False,48.0
+Kakamega,Lurambi,2012,short_rains,False,251.0
+Kakamega,Lurambi,2013,long_rains,False,69.0
+Kakamega,Lurambi,2013,short_rains,False,264.0
+Kakamega,Lurambi,2014,long_rains,False,70.0
+Kakamega,Lurambi,2014,short_rains,False,246.0
+Kakamega,Lurambi,2015,long_rains,True,81.0
+Kakamega,Lurambi,2015,short_rains,False,282.0
+Kakamega,Lurambi,2016,long_rains,False,67.0
+Kakamega,Lurambi,2016,short_rains,False,275.0
+Kakamega,Lurambi,2017,long_rains,False,106.0
+Kakamega,Lurambi,2017,short_rains,False,244.0
+Kakamega,Lurambi,2018,long_rains,False,59.0
+Kakamega,Lurambi,2018,short_rains,False,285.0
+Kakamega,Lurambi,2019,long_rains,True,110.0
+Kakamega,Lurambi,2019,short_rains,False,246.0
+Kakamega,Lurambi,2020,long_rains,False,62.0
+Kakamega,Lurambi,2020,short_rains,False,250.0
+Kakamega,Lurambi,2021,long_rains,False,92.0
+Kakamega,Lurambi,2021,short_rains,False,244.0
+Kakamega,Lurambi,2022,long_rains,True,104.0
+Kakamega,Lurambi,2022,short_rains,True,308.0
+Kakamega,Lurambi,2023,long_rains,False,60.0
+Kakamega,Lurambi,2023,short_rains,False,248.0
+Kakamega,Lurambi,2024,long_rains,True,83.0
+Kakamega,Lurambi,2024,short_rains,False,247.0
+Kakamega,Lurambi,2025,long_rains,False,68.0
+Kakamega,Lurambi,2025,short_rains,False,259.0
+Kakamega,Malava,1991,long_rains,False,86.0
+Kakamega,Malava,1991,short_rains,,
+Kakamega,Malava,1992,long_rains,False,98.0
+Kakamega,Malava,1992,short_rains,False,292.0
+Kakamega,Malava,1993,long_rains,False,114.0
+Kakamega,Malava,1993,short_rains,,
+Kakamega,Malava,1994,long_rains,False,85.0
+Kakamega,Malava,1994,short_rains,False,293.0
+Kakamega,Malava,1995,long_rains,False,60.0
+Kakamega,Malava,1995,short_rains,False,296.0
+Kakamega,Malava,1996,long_rains,False,86.0
+Kakamega,Malava,1996,short_rains,False,247.0
+Kakamega,Malava,1997,long_rains,False,87.0
+Kakamega,Malava,1997,short_rains,False,290.0
+Kakamega,Malava,1998,long_rains,False,100.0
+Kakamega,Malava,1998,short_rains,False,281.0
+Kakamega,Malava,1999,long_rains,False,73.0
+Kakamega,Malava,1999,short_rains,False,280.0
+Kakamega,Malava,2000,long_rains,True,
+Kakamega,Malava,2000,short_rains,False,265.0
+Kakamega,Malava,2001,long_rains,False,87.0
+Kakamega,Malava,2001,short_rains,True,
+Kakamega,Malava,2002,long_rains,False,107.0
+Kakamega,Malava,2002,short_rains,True,
+Kakamega,Malava,2003,long_rains,False,105.0
+Kakamega,Malava,2003,short_rains,,
+Kakamega,Malava,2004,long_rains,False,100.0
+Kakamega,Malava,2004,short_rains,True,304.0
+Kakamega,Malava,2005,long_rains,False,117.0
+Kakamega,Malava,2005,short_rains,,
+Kakamega,Malava,2006,long_rains,False,60.0
+Kakamega,Malava,2006,short_rains,False,250.0
+Kakamega,Malava,2007,long_rains,False,102.0
+Kakamega,Malava,2007,short_rains,,
+Kakamega,Malava,2008,long_rains,False,86.0
+Kakamega,Malava,2008,short_rains,False,252.0
+Kakamega,Malava,2009,long_rains,False,102.0
+Kakamega,Malava,2009,short_rains,False,250.0
+Kakamega,Malava,2010,long_rains,True,79.0
+Kakamega,Malava,2010,short_rains,False,279.0
+Kakamega,Malava,2011,long_rains,False,121.0
+Kakamega,Malava,2011,short_rains,False,259.0
+Kakamega,Malava,2012,long_rains,False,107.0
+Kakamega,Malava,2012,short_rains,True,286.0
+Kakamega,Malava,2013,long_rains,False,96.0
+Kakamega,Malava,2013,short_rains,False,312.0
+Kakamega,Malava,2014,long_rains,False,71.0
+Kakamega,Malava,2014,short_rains,False,248.0
+Kakamega,Malava,2015,long_rains,False,81.0
+Kakamega,Malava,2015,short_rains,False,305.0
+Kakamega,Malava,2016,long_rains,False,103.0
+Kakamega,Malava,2016,short_rains,True,
+Kakamega,Malava,2017,long_rains,True,84.0
+Kakamega,Malava,2017,short_rains,False,244.0
+Kakamega,Malava,2018,long_rains,False,58.0
+Kakamega,Malava,2018,short_rains,False,244.0
+Kakamega,Malava,2019,long_rains,True,110.0
+Kakamega,Malava,2019,short_rains,False,245.0
+Kakamega,Malava,2020,long_rains,False,62.0
+Kakamega,Malava,2020,short_rains,False,248.0
+Kakamega,Malava,2021,long_rains,False,88.0
+Kakamega,Malava,2021,short_rains,False,244.0
+Kakamega,Malava,2022,long_rains,True,104.0
+Kakamega,Malava,2022,short_rains,False,244.0
+Kakamega,Malava,2023,long_rains,False,71.0
+Kakamega,Malava,2023,short_rains,False,248.0
+Kakamega,Malava,2024,long_rains,True,84.0
+Kakamega,Malava,2024,short_rains,False,245.0
+Kakamega,Malava,2025,long_rains,False,68.0
+Kakamega,Malava,2025,short_rains,False,253.0
+Kakamega,Mumias West,1991,long_rains,False,64.0
+Kakamega,Mumias West,1991,short_rains,False,244.0
+Kakamega,Mumias West,1992,long_rains,True,89.0
+Kakamega,Mumias West,1992,short_rains,False,246.0
+Kakamega,Mumias West,1993,long_rains,False,77.0
+Kakamega,Mumias West,1993,short_rains,False,288.0
+Kakamega,Mumias West,1994,long_rains,False,53.0
+Kakamega,Mumias West,1994,short_rains,False,244.0
+Kakamega,Mumias West,1995,long_rains,False,46.0
+Kakamega,Mumias West,1995,short_rains,False,251.0
+Kakamega,Mumias West,1996,long_rains,False,47.0
+Kakamega,Mumias West,1996,short_rains,False,245.0
+Kakamega,Mumias West,1997,long_rains,False,83.0
+Kakamega,Mumias West,1997,short_rains,False,278.0
+Kakamega,Mumias West,1998,long_rains,False,65.0
+Kakamega,Mumias West,1998,short_rains,False,245.0
+Kakamega,Mumias West,1999,long_rains,False,59.0
+Kakamega,Mumias West,1999,short_rains,False,244.0
+Kakamega,Mumias West,2000,long_rains,False,59.0
+Kakamega,Mumias West,2000,short_rains,False,263.0
+Kakamega,Mumias West,2001,long_rains,False,65.0
+Kakamega,Mumias West,2001,short_rains,False,269.0
+Kakamega,Mumias West,2002,long_rains,False,60.0
+Kakamega,Mumias West,2002,short_rains,False,255.0
+Kakamega,Mumias West,2003,long_rains,False,83.0
+Kakamega,Mumias West,2003,short_rains,False,249.0
+Kakamega,Mumias West,2004,long_rains,False,58.0
+Kakamega,Mumias West,2004,short_rains,False,249.0
+Kakamega,Mumias West,2005,long_rains,False,57.0
+Kakamega,Mumias West,2005,short_rains,False,253.0
+Kakamega,Mumias West,2006,long_rains,False,53.0
+Kakamega,Mumias West,2006,short_rains,False,249.0
+Kakamega,Mumias West,2007,long_rains,False,55.0
+Kakamega,Mumias West,2007,short_rains,False,246.0
+Kakamega,Mumias West,2008,long_rains,False,78.0
+Kakamega,Mumias West,2008,short_rains,False,249.0
+Kakamega,Mumias West,2009,long_rains,False,88.0
+Kakamega,Mumias West,2009,short_rains,False,244.0
+Kakamega,Mumias West,2010,long_rains,False,47.0
+Kakamega,Mumias West,2010,short_rains,False,247.0
+Kakamega,Mumias West,2011,long_rains,False,78.0
+Kakamega,Mumias West,2011,short_rains,False,244.0
+Kakamega,Mumias West,2012,long_rains,False,56.0
+Kakamega,Mumias West,2012,short_rains,False,249.0
+Kakamega,Mumias West,2013,long_rains,False,66.0
+Kakamega,Mumias West,2013,short_rains,False,264.0
+Kakamega,Mumias West,2014,long_rains,False,69.0
+Kakamega,Mumias West,2014,short_rains,False,246.0
+Kakamega,Mumias West,2015,long_rains,False,80.0
+Kakamega,Mumias West,2015,short_rains,False,288.0
+Kakamega,Mumias West,2016,long_rains,False,68.0
+Kakamega,Mumias West,2016,short_rains,False,259.0
+Kakamega,Mumias West,2017,long_rains,False,55.0
+Kakamega,Mumias West,2017,short_rains,False,245.0
+Kakamega,Mumias West,2018,long_rains,False,58.0
+Kakamega,Mumias West,2018,short_rains,False,282.0
+Kakamega,Mumias West,2019,long_rains,True,99.0
+Kakamega,Mumias West,2019,short_rains,False,254.0
+Kakamega,Mumias West,2020,long_rains,False,59.0
+Kakamega,Mumias West,2020,short_rains,False,250.0
+Kakamega,Mumias West,2021,long_rains,False,47.0
+Kakamega,Mumias West,2021,short_rains,False,252.0
+Kakamega,Mumias West,2022,long_rains,True,103.0
+Kakamega,Mumias West,2022,short_rains,False,250.0
+Kakamega,Mumias West,2023,long_rains,False,59.0
+Kakamega,Mumias West,2023,short_rains,False,248.0
+Kakamega,Mumias West,2024,long_rains,True,84.0
+Kakamega,Mumias West,2024,short_rains,False,247.0
+Kakamega,Mumias West,2025,long_rains,False,68.0
+Kakamega,Mumias West,2025,short_rains,False,256.0
+Trans Nzoia,Endebess,1991,long_rains,True,72.0
+Trans Nzoia,Endebess,1991,short_rains,False,244.0
+Trans Nzoia,Endebess,1992,long_rains,True,118.0
+Trans Nzoia,Endebess,1992,short_rains,False,245.0
+Trans Nzoia,Endebess,1993,long_rains,False,56.0
+Trans Nzoia,Endebess,1993,short_rains,False,244.0
+Trans Nzoia,Endebess,1994,long_rains,False,49.0
+Trans Nzoia,Endebess,1994,short_rains,False,244.0
+Trans Nzoia,Endebess,1995,long_rains,True,61.0
+Trans Nzoia,Endebess,1995,short_rains,False,244.0
+Trans Nzoia,Endebess,1996,long_rains,False,48.0
+Trans Nzoia,Endebess,1996,short_rains,False,245.0
+Trans Nzoia,Endebess,1997,long_rains,False,84.0
+Trans Nzoia,Endebess,1997,short_rains,False,286.0
+Trans Nzoia,Endebess,1998,long_rains,True,68.0
+Trans Nzoia,Endebess,1998,short_rains,False,252.0
+Trans Nzoia,Endebess,1999,long_rains,False,66.0
+Trans Nzoia,Endebess,1999,short_rains,False,244.0
+Trans Nzoia,Endebess,2000,long_rains,False,60.0
+Trans Nzoia,Endebess,2000,short_rains,False,245.0
+Trans Nzoia,Endebess,2001,long_rains,False,65.0
+Trans Nzoia,Endebess,2001,short_rains,True,249.0
+Trans Nzoia,Endebess,2002,long_rains,False,62.0
+Trans Nzoia,Endebess,2002,short_rains,False,255.0
+Trans Nzoia,Endebess,2003,long_rains,False,82.0
+Trans Nzoia,Endebess,2003,short_rains,True,286.0
+Trans Nzoia,Endebess,2004,long_rains,False,47.0
+Trans Nzoia,Endebess,2004,short_rains,False,255.0
+Trans Nzoia,Endebess,2005,long_rains,False,57.0
+Trans Nzoia,Endebess,2005,short_rains,True,284.0
+Trans Nzoia,Endebess,2006,long_rains,False,54.0
+Trans Nzoia,Endebess,2006,short_rains,False,250.0
+Trans Nzoia,Endebess,2007,long_rains,False,55.0
+Trans Nzoia,Endebess,2007,short_rains,False,244.0
+Trans Nzoia,Endebess,2008,long_rains,False,79.0
+Trans Nzoia,Endebess,2008,short_rains,False,245.0
+Trans Nzoia,Endebess,2009,long_rains,False,102.0
+Trans Nzoia,Endebess,2009,short_rains,False,244.0
+Trans Nzoia,Endebess,2010,long_rains,True,80.0
+Trans Nzoia,Endebess,2010,short_rains,False,244.0
+Trans Nzoia,Endebess,2011,long_rains,True,113.0
+Trans Nzoia,Endebess,2011,short_rains,False,244.0
+Trans Nzoia,Endebess,2012,long_rains,True,92.0
+Trans Nzoia,Endebess,2012,short_rains,False,246.0
+Trans Nzoia,Endebess,2013,long_rains,False,78.0
+Trans Nzoia,Endebess,2013,short_rains,False,244.0
+Trans Nzoia,Endebess,2014,long_rains,True,71.0
+Trans Nzoia,Endebess,2014,short_rains,False,244.0
+Trans Nzoia,Endebess,2015,long_rains,True,82.0
+Trans Nzoia,Endebess,2015,short_rains,False,244.0
+Trans Nzoia,Endebess,2016,long_rains,True,104.0
+Trans Nzoia,Endebess,2016,short_rains,False,246.0
+Trans Nzoia,Endebess,2017,long_rains,False,107.0
+Trans Nzoia,Endebess,2017,short_rains,False,244.0
+Trans Nzoia,Endebess,2018,long_rains,False,59.0
+Trans Nzoia,Endebess,2018,short_rains,True,281.0
+Trans Nzoia,Endebess,2019,long_rains,False,112.0
+Trans Nzoia,Endebess,2019,short_rains,False,245.0
+Trans Nzoia,Endebess,2020,long_rains,True,104.0
+Trans Nzoia,Endebess,2020,short_rains,False,246.0
+Trans Nzoia,Endebess,2021,long_rains,False,94.0
+Trans Nzoia,Endebess,2021,short_rains,False,244.0
+Trans Nzoia,Endebess,2022,long_rains,False,104.0
+Trans Nzoia,Endebess,2022,short_rains,False,246.0
+Trans Nzoia,Endebess,2023,long_rains,False,73.0
+Trans Nzoia,Endebess,2023,short_rains,False,249.0
+Trans Nzoia,Endebess,2024,long_rains,True,92.0
+Trans Nzoia,Endebess,2024,short_rains,False,273.0
+Trans Nzoia,Endebess,2025,long_rains,False,68.0
+Trans Nzoia,Endebess,2025,short_rains,False,244.0
+Trans Nzoia,Kiminini,1991,long_rains,True,72.0
+Trans Nzoia,Kiminini,1991,short_rains,False,244.0
+Trans Nzoia,Kiminini,1992,long_rains,False,90.0
+Trans Nzoia,Kiminini,1992,short_rains,False,245.0
+Trans Nzoia,Kiminini,1993,long_rains,False,114.0
+Trans Nzoia,Kiminini,1993,short_rains,False,244.0
+Trans Nzoia,Kiminini,1994,long_rains,False,81.0
+Trans Nzoia,Kiminini,1994,short_rains,True,293.0
+Trans Nzoia,Kiminini,1995,long_rains,False,61.0
+Trans Nzoia,Kiminini,1995,short_rains,False,244.0
+Trans Nzoia,Kiminini,1996,long_rains,False,48.0
+Trans Nzoia,Kiminini,1996,short_rains,False,245.0
+Trans Nzoia,Kiminini,1997,long_rains,False,86.0
+Trans Nzoia,Kiminini,1997,short_rains,False,283.0
+Trans Nzoia,Kiminini,1998,long_rains,True,99.0
+Trans Nzoia,Kiminini,1998,short_rains,False,252.0
+Trans Nzoia,Kiminini,1999,long_rains,False,68.0
+Trans Nzoia,Kiminini,1999,short_rains,False,244.0
+Trans Nzoia,Kiminini,2000,long_rains,True,97.0
+Trans Nzoia,Kiminini,2000,short_rains,False,245.0
+Trans Nzoia,Kiminini,2001,long_rains,False,83.0
+Trans Nzoia,Kiminini,2001,short_rains,False,244.0
+Trans Nzoia,Kiminini,2002,long_rains,False,62.0
+Trans Nzoia,Kiminini,2002,short_rains,False,274.0
+Trans Nzoia,Kiminini,2003,long_rains,True,104.0
+Trans Nzoia,Kiminini,2003,short_rains,True,318.0
+Trans Nzoia,Kiminini,2004,long_rains,True,87.0
+Trans Nzoia,Kiminini,2004,short_rains,False,247.0
+Trans Nzoia,Kiminini,2005,long_rains,False,60.0
+Trans Nzoia,Kiminini,2005,short_rains,True,284.0
+Trans Nzoia,Kiminini,2006,long_rains,False,54.0
+Trans Nzoia,Kiminini,2006,short_rains,False,249.0
+Trans Nzoia,Kiminini,2007,long_rains,False,55.0
+Trans Nzoia,Kiminini,2007,short_rains,False,249.0
+Trans Nzoia,Kiminini,2008,long_rains,False,74.0
+Trans Nzoia,Kiminini,2008,short_rains,False,245.0
+Trans Nzoia,Kiminini,2009,long_rains,False,95.0
+Trans Nzoia,Kiminini,2009,short_rains,False,248.0
+Trans Nzoia,Kiminini,2010,long_rains,False,51.0
+Trans Nzoia,Kiminini,2010,short_rains,False,244.0
+Trans Nzoia,Kiminini,2011,long_rains,False,114.0
+Trans Nzoia,Kiminini,2011,short_rains,False,257.0
+Trans Nzoia,Kiminini,2012,long_rains,True,92.0
+Trans Nzoia,Kiminini,2012,short_rains,False,246.0
+Trans Nzoia,Kiminini,2013,long_rains,False,85.0
+Trans Nzoia,Kiminini,2013,short_rains,False,246.0
+Trans Nzoia,Kiminini,2014,long_rains,True,71.0
+Trans Nzoia,Kiminini,2014,short_rains,False,249.0
+Trans Nzoia,Kiminini,2015,long_rains,True,85.0
+Trans Nzoia,Kiminini,2015,short_rains,False,286.0
+Trans Nzoia,Kiminini,2016,long_rains,False,103.0
+Trans Nzoia,Kiminini,2016,short_rains,False,248.0
+Trans Nzoia,Kiminini,2017,long_rains,False,127.0
+Trans Nzoia,Kiminini,2017,short_rains,False,244.0
+Trans Nzoia,Kiminini,2018,long_rains,False,59.0
+Trans Nzoia,Kiminini,2018,short_rains,True,281.0
+Trans Nzoia,Kiminini,2019,long_rains,False,112.0
+Trans Nzoia,Kiminini,2019,short_rains,False,245.0
+Trans Nzoia,Kiminini,2020,long_rains,True,106.0
+Trans Nzoia,Kiminini,2020,short_rains,False,247.0
+Trans Nzoia,Kiminini,2021,long_rains,False,92.0
+Trans Nzoia,Kiminini,2021,short_rains,False,244.0
+Trans Nzoia,Kiminini,2022,long_rains,False,113.0
+Trans Nzoia,Kiminini,2022,short_rains,True,281.0
+Trans Nzoia,Kiminini,2023,long_rains,False,81.0
+Trans Nzoia,Kiminini,2023,short_rains,False,252.0
+Trans Nzoia,Kiminini,2024,long_rains,False,92.0
+Trans Nzoia,Kiminini,2024,short_rains,False,272.0
+Trans Nzoia,Kiminini,2025,long_rains,False,67.0
+Trans Nzoia,Kiminini,2025,short_rains,False,269.0
+Trans Nzoia,Saboti,1991,long_rains,True,72.0
+Trans Nzoia,Saboti,1991,short_rains,False,244.0
+Trans Nzoia,Saboti,1992,long_rains,False,90.0
+Trans Nzoia,Saboti,1992,short_rains,False,245.0
+Trans Nzoia,Saboti,1993,long_rains,False,114.0
+Trans Nzoia,Saboti,1993,short_rains,False,244.0
+Trans Nzoia,Saboti,1994,long_rains,False,81.0
+Trans Nzoia,Saboti,1994,short_rains,True,293.0
+Trans Nzoia,Saboti,1995,long_rains,False,61.0
+Trans Nzoia,Saboti,1995,short_rains,False,244.0
+Trans Nzoia,Saboti,1996,long_rains,False,48.0
+Trans Nzoia,Saboti,1996,short_rains,False,245.0
+Trans Nzoia,Saboti,1997,long_rains,False,86.0
+Trans Nzoia,Saboti,1997,short_rains,False,283.0
+Trans Nzoia,Saboti,1998,long_rains,True,99.0
+Trans Nzoia,Saboti,1998,short_rains,False,252.0
+Trans Nzoia,Saboti,1999,long_rains,False,68.0
+Trans Nzoia,Saboti,1999,short_rains,False,244.0
+Trans Nzoia,Saboti,2000,long_rains,True,97.0
+Trans Nzoia,Saboti,2000,short_rains,False,245.0
+Trans Nzoia,Saboti,2001,long_rains,False,83.0
+Trans Nzoia,Saboti,2001,short_rains,False,244.0
+Trans Nzoia,Saboti,2002,long_rains,False,62.0
+Trans Nzoia,Saboti,2002,short_rains,False,274.0
+Trans Nzoia,Saboti,2003,long_rains,True,104.0
+Trans Nzoia,Saboti,2003,short_rains,True,318.0
+Trans Nzoia,Saboti,2004,long_rains,True,87.0
+Trans Nzoia,Saboti,2004,short_rains,False,247.0
+Trans Nzoia,Saboti,2005,long_rains,False,60.0
+Trans Nzoia,Saboti,2005,short_rains,True,284.0
+Trans Nzoia,Saboti,2006,long_rains,False,54.0
+Trans Nzoia,Saboti,2006,short_rains,False,249.0
+Trans Nzoia,Saboti,2007,long_rains,False,55.0
+Trans Nzoia,Saboti,2007,short_rains,False,249.0
+Trans Nzoia,Saboti,2008,long_rains,False,74.0
+Trans Nzoia,Saboti,2008,short_rains,False,245.0
+Trans Nzoia,Saboti,2009,long_rains,False,95.0
+Trans Nzoia,Saboti,2009,short_rains,False,248.0
+Trans Nzoia,Saboti,2010,long_rains,False,51.0
+Trans Nzoia,Saboti,2010,short_rains,False,244.0
+Trans Nzoia,Saboti,2011,long_rains,False,114.0
+Trans Nzoia,Saboti,2011,short_rains,False,257.0
+Trans Nzoia,Saboti,2012,long_rains,True,92.0
+Trans Nzoia,Saboti,2012,short_rains,False,246.0
+Trans Nzoia,Saboti,2013,long_rains,False,85.0
+Trans Nzoia,Saboti,2013,short_rains,False,246.0
+Trans Nzoia,Saboti,2014,long_rains,True,71.0
+Trans Nzoia,Saboti,2014,short_rains,False,249.0
+Trans Nzoia,Saboti,2015,long_rains,True,85.0
+Trans Nzoia,Saboti,2015,short_rains,False,286.0
+Trans Nzoia,Saboti,2016,long_rains,False,103.0
+Trans Nzoia,Saboti,2016,short_rains,False,248.0
+Trans Nzoia,Saboti,2017,long_rains,False,107.0
+Trans Nzoia,Saboti,2017,short_rains,False,245.0
+Trans Nzoia,Saboti,2018,long_rains,False,59.0
+Trans Nzoia,Saboti,2018,short_rains,False,280.0
+Trans Nzoia,Saboti,2019,long_rains,False,111.0
+Trans Nzoia,Saboti,2019,short_rains,False,250.0
+Trans Nzoia,Saboti,2020,long_rains,True,103.0
+Trans Nzoia,Saboti,2020,short_rains,False,246.0
+Trans Nzoia,Saboti,2021,long_rains,False,92.0
+Trans Nzoia,Saboti,2021,short_rains,False,244.0
+Trans Nzoia,Saboti,2022,long_rains,False,107.0
+Trans Nzoia,Saboti,2022,short_rains,False,248.0
+Trans Nzoia,Saboti,2023,long_rains,False,73.0
+Trans Nzoia,Saboti,2023,short_rains,False,253.0
+Trans Nzoia,Saboti,2024,long_rains,True,91.0
+Trans Nzoia,Saboti,2024,short_rains,False,262.0
+Trans Nzoia,Saboti,2025,long_rains,False,67.0
+Trans Nzoia,Saboti,2025,short_rains,False,244.0

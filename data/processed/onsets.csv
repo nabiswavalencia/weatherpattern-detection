@@ -1,0 +1,701 @@
+county,subcounty,year,season,onset,onset_doy,max_dry_spell
+Bungoma,Kanduyi,1991,long_rains,1991-03-12,71.0,9
+Bungoma,Kanduyi,1991,short_rains,1991-10-11,284.0,8
+Bungoma,Kanduyi,1992,long_rains,1992-03-29,89.0,14
+Bungoma,Kanduyi,1992,short_rains,,,9
+Bungoma,Kanduyi,1993,long_rains,1993-03-20,79.0,7
+Bungoma,Kanduyi,1993,short_rains,1993-11-01,305.0,25
+Bungoma,Kanduyi,1994,long_rains,1994-03-02,61.0,6
+Bungoma,Kanduyi,1994,short_rains,1994-10-20,293.0,6
+Bungoma,Kanduyi,1995,long_rains,1995-03-01,60.0,8
+Bungoma,Kanduyi,1995,short_rains,1995-10-22,295.0,15
+Bungoma,Kanduyi,1996,long_rains,1996-03-21,81.0,11
+Bungoma,Kanduyi,1996,short_rains,1996-09-15,259.0,9
+Bungoma,Kanduyi,1997,long_rains,1997-03-25,84.0,23
+Bungoma,Kanduyi,1997,short_rains,1997-10-17,290.0,4
+Bungoma,Kanduyi,1998,long_rains,1998-03-25,84.0,10
+Bungoma,Kanduyi,1998,short_rains,1998-09-24,267.0,28
+Bungoma,Kanduyi,1999,long_rains,1999-03-06,65.0,6
+Bungoma,Kanduyi,1999,short_rains,1999-11-11,315.0,10
+Bungoma,Kanduyi,2000,long_rains,2000-03-08,68.0,10
+Bungoma,Kanduyi,2000,short_rains,2000-10-03,277.0,7
+Bungoma,Kanduyi,2001,long_rains,2001-03-28,87.0,5
+Bungoma,Kanduyi,2001,short_rains,2001-10-07,280.0,26
+Bungoma,Kanduyi,2002,long_rains,2002-03-01,60.0,4
+Bungoma,Kanduyi,2002,short_rains,2002-11-03,307.0,8
+Bungoma,Kanduyi,2003,long_rains,2003-04-14,104.0,11
+Bungoma,Kanduyi,2003,short_rains,2003-11-28,332.0,10
+Bungoma,Kanduyi,2004,long_rains,2004-02-16,47.0,15
+Bungoma,Kanduyi,2004,short_rains,2004-10-30,304.0,12
+Bungoma,Kanduyi,2005,long_rains,2005-03-17,76.0,10
+Bungoma,Kanduyi,2005,short_rains,,,49
+Bungoma,Kanduyi,2006,long_rains,2006-03-07,66.0,2
+Bungoma,Kanduyi,2006,short_rains,2006-10-18,291.0,6
+Bungoma,Kanduyi,2007,long_rains,2007-02-25,56.0,10
+Bungoma,Kanduyi,2007,short_rains,2007-10-21,294.0,11
+Bungoma,Kanduyi,2008,long_rains,2008-03-18,78.0,6
+Bungoma,Kanduyi,2008,short_rains,2008-10-03,277.0,17
+Bungoma,Kanduyi,2009,long_rains,2009-03-30,89.0,10
+Bungoma,Kanduyi,2009,short_rains,2009-09-02,245.0,7
+Bungoma,Kanduyi,2010,long_rains,2010-03-19,78.0,11
+Bungoma,Kanduyi,2010,short_rains,,,8
+Bungoma,Kanduyi,2011,long_rains,2011-03-19,78.0,7
+Bungoma,Kanduyi,2011,short_rains,2011-09-16,259.0,8
+Bungoma,Kanduyi,2012,long_rains,2012-04-05,96.0,26
+Bungoma,Kanduyi,2012,short_rains,2012-10-12,286.0,11
+Bungoma,Kanduyi,2013,long_rains,2013-03-20,79.0,6
+Bungoma,Kanduyi,2013,short_rains,,,12
+Bungoma,Kanduyi,2014,long_rains,2014-03-11,70.0,10
+Bungoma,Kanduyi,2014,short_rains,2014-09-03,246.0,17
+Bungoma,Kanduyi,2015,long_rains,2015-03-23,82.0,22
+Bungoma,Kanduyi,2015,short_rains,2015-10-28,301.0,9
+Bungoma,Kanduyi,2016,long_rains,2016-03-31,91.0,7
+Bungoma,Kanduyi,2016,short_rains,,,18
+Bungoma,Kanduyi,2017,long_rains,2017-02-25,56.0,7
+Bungoma,Kanduyi,2017,short_rains,2017-09-02,245.0,22
+Bungoma,Kanduyi,2018,long_rains,2018-02-27,58.0,3
+Bungoma,Kanduyi,2018,short_rains,2018-09-01,244.0,6
+Bungoma,Kanduyi,2019,long_rains,2019-04-09,99.0,18
+Bungoma,Kanduyi,2019,short_rains,2019-09-10,253.0,4
+Bungoma,Kanduyi,2020,long_rains,2020-02-28,59.0,4
+Bungoma,Kanduyi,2020,short_rains,2020-09-05,249.0,19
+Bungoma,Kanduyi,2021,long_rains,2021-03-31,90.0,9
+Bungoma,Kanduyi,2021,short_rains,2021-09-01,244.0,19
+Bungoma,Kanduyi,2022,long_rains,2022-04-15,105.0,21
+Bungoma,Kanduyi,2022,short_rains,2022-09-01,244.0,7
+Bungoma,Kanduyi,2023,long_rains,2023-03-14,73.0,9
+Bungoma,Kanduyi,2023,short_rains,2023-09-05,248.0,11
+Bungoma,Kanduyi,2024,long_rains,2024-03-31,91.0,14
+Bungoma,Kanduyi,2024,short_rains,2024-09-04,248.0,8
+Bungoma,Kanduyi,2025,long_rains,2025-03-08,67.0,7
+Bungoma,Kanduyi,2025,short_rains,2025-10-04,277.0,22
+Bungoma,Kimilili,1991,long_rains,1991-03-25,84.0,10
+Bungoma,Kimilili,1991,short_rains,1991-09-01,244.0,9
+Bungoma,Kimilili,1992,long_rains,1992-03-30,90.0,17
+Bungoma,Kimilili,1992,short_rains,1992-09-01,245.0,11
+Bungoma,Kimilili,1993,long_rains,1993-04-24,114.0,17
+Bungoma,Kimilili,1993,short_rains,1993-09-01,244.0,23
+Bungoma,Kimilili,1994,long_rains,1994-03-03,62.0,8
+Bungoma,Kimilili,1994,short_rains,1994-09-01,244.0,15
+Bungoma,Kimilili,1995,long_rains,1995-02-15,46.0,9
+Bungoma,Kimilili,1995,short_rains,1995-09-01,244.0,20
+Bungoma,Kimilili,1996,long_rains,1996-03-19,79.0,11
+Bungoma,Kimilili,1996,short_rains,1996-09-01,245.0,14
+Bungoma,Kimilili,1997,long_rains,1997-03-29,88.0,24
+Bungoma,Kimilili,1997,short_rains,1997-10-13,286.0,6
+Bungoma,Kimilili,1998,long_rains,1998-04-05,95.0,13
+Bungoma,Kimilili,1998,short_rains,1998-09-09,252.0,30
+Bungoma,Kimilili,1999,long_rains,1999-03-08,67.0,7
+Bungoma,Kimilili,1999,short_rains,1999-09-01,244.0,10
+Bungoma,Kimilili,2000,long_rains,2000-04-23,114.0,12
+Bungoma,Kimilili,2000,short_rains,2000-09-01,245.0,9
+Bungoma,Kimilili,2001,long_rains,2001-03-06,65.0,5
+Bungoma,Kimilili,2001,short_rains,2001-09-02,245.0,30
+Bungoma,Kimilili,2002,long_rains,2002-03-02,61.0,6
+Bungoma,Kimilili,2002,short_rains,2002-10-10,283.0,10
+Bungoma,Kimilili,2003,long_rains,2003-04-15,105.0,12
+Bungoma,Kimilili,2003,short_rains,,,21
+Bungoma,Kimilili,2004,long_rains,2004-03-28,88.0,14
+Bungoma,Kimilili,2004,short_rains,2004-09-12,256.0,11
+Bungoma,Kimilili,2005,long_rains,2005-04-05,95.0,13
+Bungoma,Kimilili,2005,short_rains,2005-10-11,284.0,25
+Bungoma,Kimilili,2006,long_rains,2006-02-24,55.0,7
+Bungoma,Kimilili,2006,short_rains,2006-09-07,250.0,16
+Bungoma,Kimilili,2007,long_rains,2007-02-24,55.0,20
+Bungoma,Kimilili,2007,short_rains,2007-09-01,244.0,19
+Bungoma,Kimilili,2008,long_rains,2008-03-13,73.0,9
+Bungoma,Kimilili,2008,short_rains,2008-09-06,250.0,45
+Bungoma,Kimilili,2009,long_rains,2009-04-11,101.0,17
+Bungoma,Kimilili,2009,short_rains,2009-09-01,244.0,10
+Bungoma,Kimilili,2010,long_rains,2010-03-21,80.0,11
+Bungoma,Kimilili,2010,short_rains,2010-09-01,244.0,25
+Bungoma,Kimilili,2011,long_rains,2011-03-15,74.0,7
+Bungoma,Kimilili,2011,short_rains,2011-09-01,244.0,12
+Bungoma,Kimilili,2012,long_rains,2012-04-01,92.0,26
+Bungoma,Kimilili,2012,short_rains,2012-09-02,246.0,8
+Bungoma,Kimilili,2013,long_rains,2013-03-19,78.0,7
+Bungoma,Kimilili,2013,short_rains,2013-09-03,246.0,13
+Bungoma,Kimilili,2014,long_rains,2014-03-11,70.0,10
+Bungoma,Kimilili,2014,short_rains,2014-09-01,244.0,20
+Bungoma,Kimilili,2015,long_rains,2015-03-23,82.0,22
+Bungoma,Kimilili,2015,short_rains,2015-09-01,244.0,7
+Bungoma,Kimilili,2016,long_rains,2016-04-13,104.0,13
+Bungoma,Kimilili,2016,short_rains,2016-09-03,247.0,18
+Bungoma,Kimilili,2017,long_rains,2017-04-17,107.0,12
+Bungoma,Kimilili,2017,short_rains,2017-09-02,245.0,37
+Bungoma,Kimilili,2018,long_rains,2018-02-27,58.0,7
+Bungoma,Kimilili,2018,short_rains,2018-10-08,281.0,8
+Bungoma,Kimilili,2019,long_rains,2019-04-21,111.0,21
+Bungoma,Kimilili,2019,short_rains,2019-09-09,252.0,6
+Bungoma,Kimilili,2020,long_rains,2020-02-29,60.0,10
+Bungoma,Kimilili,2020,short_rains,2020-09-04,248.0,11
+Bungoma,Kimilili,2021,long_rains,2021-04-03,93.0,8
+Bungoma,Kimilili,2021,short_rains,2021-09-01,244.0,28
+Bungoma,Kimilili,2022,long_rains,2022-04-19,109.0,16
+Bungoma,Kimilili,2022,short_rains,2022-09-01,244.0,10
+Bungoma,Kimilili,2023,long_rains,2023-03-14,73.0,9
+Bungoma,Kimilili,2023,short_rains,2023-09-05,248.0,12
+Bungoma,Kimilili,2024,long_rains,2024-04-01,92.0,19
+Bungoma,Kimilili,2024,short_rains,2024-09-01,245.0,16
+Bungoma,Kimilili,2025,long_rains,2025-03-08,67.0,7
+Bungoma,Kimilili,2025,short_rains,2025-09-11,254.0,27
+Bungoma,Webuye East,1991,long_rains,1991-03-27,86.0,10
+Bungoma,Webuye East,1991,short_rains,,,11
+Bungoma,Webuye East,1992,long_rains,1992-04-07,98.0,16
+Bungoma,Webuye East,1992,short_rains,1992-10-18,292.0,13
+Bungoma,Webuye East,1993,long_rains,1993-04-24,114.0,13
+Bungoma,Webuye East,1993,short_rains,,,13
+Bungoma,Webuye East,1994,long_rains,1994-03-26,85.0,5
+Bungoma,Webuye East,1994,short_rains,1994-10-20,293.0,13
+Bungoma,Webuye East,1995,long_rains,1995-03-01,60.0,9
+Bungoma,Webuye East,1995,short_rains,1995-10-23,296.0,19
+Bungoma,Webuye East,1996,long_rains,1996-03-26,86.0,13
+Bungoma,Webuye East,1996,short_rains,1996-09-03,247.0,14
+Bungoma,Webuye East,1997,long_rains,1997-03-28,87.0,23
+Bungoma,Webuye East,1997,short_rains,1997-10-17,290.0,5
+Bungoma,Webuye East,1998,long_rains,1998-04-10,100.0,10
+Bungoma,Webuye East,1998,short_rains,1998-10-08,281.0,43
+Bungoma,Webuye East,1999,long_rains,1999-03-14,73.0,8
+Bungoma,Webuye East,1999,short_rains,1999-10-07,280.0,24
+Bungoma,Webuye East,2000,long_rains,,,13
+Bungoma,Webuye East,2000,short_rains,2000-09-21,265.0,15
+Bungoma,Webuye East,2001,long_rains,2001-03-28,87.0,12
+Bungoma,Webuye East,2001,short_rains,,,30
+Bungoma,Webuye East,2002,long_rains,2002-04-17,107.0,11
+Bungoma,Webuye East,2002,short_rains,,,10
+Bungoma,Webuye East,2003,long_rains,2003-04-15,105.0,20
+Bungoma,Webuye East,2003,short_rains,,,21
+Bungoma,Webuye East,2004,long_rains,2004-04-09,100.0,16
+Bungoma,Webuye East,2004,short_rains,2004-10-30,304.0,20
+Bungoma,Webuye East,2005,long_rains,2005-04-27,117.0,13
+Bungoma,Webuye East,2005,short_rains,,,26
+Bungoma,Webuye East,2006,long_rains,2006-03-01,60.0,9
+Bungoma,Webuye East,2006,short_rains,2006-09-07,250.0,8
+Bungoma,Webuye East,2007,long_rains,2007-04-12,102.0,21
+Bungoma,Webuye East,2007,short_rains,,,20
+Bungoma,Webuye East,2008,long_rains,2008-03-26,86.0,9
+Bungoma,Webuye East,2008,short_rains,2008-09-08,252.0,28
+Bungoma,Webuye East,2009,long_rains,2009-04-12,102.0,15
+Bungoma,Webuye East,2009,short_rains,2009-09-07,250.0,10
+Bungoma,Webuye East,2010,long_rains,2010-03-20,79.0,11
+Bungoma,Webuye East,2010,short_rains,2010-10-06,279.0,12
+Bungoma,Webuye East,2011,long_rains,2011-05-01,121.0,14
+Bungoma,Webuye East,2011,short_rains,2011-09-16,259.0,12
+Bungoma,Webuye East,2012,long_rains,2012-04-16,107.0,27
+Bungoma,Webuye East,2012,short_rains,2012-10-12,286.0,14
+Bungoma,Webuye East,2013,long_rains,2013-04-06,96.0,10
+Bungoma,Webuye East,2013,short_rains,2013-11-08,312.0,12
+Bungoma,Webuye East,2014,long_rains,2014-03-12,71.0,10
+Bungoma,Webuye East,2014,short_rains,2014-09-05,248.0,16
+Bungoma,Webuye East,2015,long_rains,2015-03-22,81.0,21
+Bungoma,Webuye East,2015,short_rains,2015-11-01,305.0,8
+Bungoma,Webuye East,2016,long_rains,2016-04-12,103.0,22
+Bungoma,Webuye East,2016,short_rains,,,32
+Bungoma,Webuye East,2017,long_rains,2017-04-16,106.0,11
+Bungoma,Webuye East,2017,short_rains,2017-09-01,244.0,32
+Bungoma,Webuye East,2018,long_rains,2018-02-27,58.0,5
+Bungoma,Webuye East,2018,short_rains,2018-10-08,281.0,13
+Bungoma,Webuye East,2019,long_rains,2019-04-21,111.0,21
+Bungoma,Webuye East,2019,short_rains,2019-09-01,244.0,3
+Bungoma,Webuye East,2020,long_rains,2020-03-02,62.0,9
+Bungoma,Webuye East,2020,short_rains,2020-09-05,249.0,15
+Bungoma,Webuye East,2021,long_rains,2021-03-29,88.0,9
+Bungoma,Webuye East,2021,short_rains,2021-09-01,244.0,20
+Bungoma,Webuye East,2022,long_rains,2022-04-14,104.0,21
+Bungoma,Webuye East,2022,short_rains,2022-09-01,244.0,14
+Bungoma,Webuye East,2023,long_rains,2023-03-14,73.0,11
+Bungoma,Webuye East,2023,short_rains,2023-09-05,248.0,14
+Bungoma,Webuye East,2024,long_rains,2024-04-01,92.0,14
+Bungoma,Webuye East,2024,short_rains,2024-09-02,246.0,16
+Bungoma,Webuye East,2025,long_rains,2025-03-09,68.0,8
+Bungoma,Webuye East,2025,short_rains,2025-09-26,269.0,32
+Kakamega,Butere,1991,long_rains,1991-03-05,64.0,7
+Kakamega,Butere,1991,short_rains,1991-09-01,244.0,4
+Kakamega,Butere,1992,long_rains,1992-03-29,89.0,12
+Kakamega,Butere,1992,short_rains,1992-09-02,246.0,4
+Kakamega,Butere,1993,long_rains,1993-03-18,77.0,3
+Kakamega,Butere,1993,short_rains,1993-10-15,288.0,7
+Kakamega,Butere,1994,long_rains,1994-02-22,53.0,4
+Kakamega,Butere,1994,short_rains,1994-09-01,244.0,4
+Kakamega,Butere,1995,long_rains,1995-02-15,46.0,5
+Kakamega,Butere,1995,short_rains,1995-09-08,251.0,5
+Kakamega,Butere,1996,long_rains,1996-02-16,47.0,1
+Kakamega,Butere,1996,short_rains,1996-09-01,245.0,7
+Kakamega,Butere,1997,long_rains,1997-03-24,83.0,11
+Kakamega,Butere,1997,short_rains,1997-10-05,278.0,1
+Kakamega,Butere,1998,long_rains,1998-03-06,65.0,5
+Kakamega,Butere,1998,short_rains,1998-09-02,245.0,8
+Kakamega,Butere,1999,long_rains,1999-02-28,59.0,2
+Kakamega,Butere,1999,short_rains,1999-09-01,244.0,3
+Kakamega,Butere,2000,long_rains,2000-02-28,59.0,5
+Kakamega,Butere,2000,short_rains,2000-09-19,263.0,4
+Kakamega,Butere,2001,long_rains,2001-03-06,65.0,5
+Kakamega,Butere,2001,short_rains,2001-09-26,269.0,9
+Kakamega,Butere,2002,long_rains,2002-03-01,60.0,3
+Kakamega,Butere,2002,short_rains,2002-09-12,255.0,3
+Kakamega,Butere,2003,long_rains,2003-03-24,83.0,10
+Kakamega,Butere,2003,short_rains,2003-09-06,249.0,9
+Kakamega,Butere,2004,long_rains,2004-02-27,58.0,6
+Kakamega,Butere,2004,short_rains,2004-09-05,249.0,3
+Kakamega,Butere,2005,long_rains,2005-02-26,57.0,5
+Kakamega,Butere,2005,short_rains,2005-09-10,253.0,13
+Kakamega,Butere,2006,long_rains,2006-02-22,53.0,1
+Kakamega,Butere,2006,short_rains,2006-09-06,249.0,3
+Kakamega,Butere,2007,long_rains,2007-02-24,55.0,5
+Kakamega,Butere,2007,short_rains,2007-09-03,246.0,7
+Kakamega,Butere,2008,long_rains,2008-03-18,78.0,8
+Kakamega,Butere,2008,short_rains,2008-09-05,249.0,9
+Kakamega,Butere,2009,long_rains,2009-03-29,88.0,7
+Kakamega,Butere,2009,short_rains,2009-09-01,244.0,5
+Kakamega,Butere,2010,long_rains,2010-02-16,47.0,5
+Kakamega,Butere,2010,short_rains,2010-09-04,247.0,8
+Kakamega,Butere,2011,long_rains,2011-03-19,78.0,3
+Kakamega,Butere,2011,short_rains,2011-09-01,244.0,3
+Kakamega,Butere,2012,long_rains,2012-02-25,56.0,5
+Kakamega,Butere,2012,short_rains,2012-09-05,249.0,2
+Kakamega,Butere,2013,long_rains,2013-03-07,66.0,6
+Kakamega,Butere,2013,short_rains,2013-09-21,264.0,12
+Kakamega,Butere,2014,long_rains,2014-03-10,69.0,4
+Kakamega,Butere,2014,short_rains,2014-09-03,246.0,3
+Kakamega,Butere,2015,long_rains,2015-03-21,80.0,18
+Kakamega,Butere,2015,short_rains,2015-10-15,288.0,3
+Kakamega,Butere,2016,long_rains,2016-03-08,68.0,6
+Kakamega,Butere,2016,short_rains,2016-09-15,259.0,11
+Kakamega,Butere,2017,long_rains,2017-02-21,52.0,6
+Kakamega,Butere,2017,short_rains,2017-09-03,246.0,20
+Kakamega,Butere,2018,long_rains,2018-02-27,58.0,1
+Kakamega,Butere,2018,short_rains,2018-09-02,245.0,8
+Kakamega,Butere,2019,long_rains,2019-04-13,103.0,13
+Kakamega,Butere,2019,short_rains,2019-09-24,267.0,4
+Kakamega,Butere,2020,long_rains,2020-02-28,59.0,4
+Kakamega,Butere,2020,short_rains,2020-09-06,250.0,8
+Kakamega,Butere,2021,long_rains,2021-02-15,46.0,6
+Kakamega,Butere,2021,short_rains,2021-09-01,244.0,5
+Kakamega,Butere,2022,long_rains,2022-03-22,81.0,7
+Kakamega,Butere,2022,short_rains,2022-09-09,252.0,9
+Kakamega,Butere,2023,long_rains,2023-02-27,58.0,9
+Kakamega,Butere,2023,short_rains,2023-09-09,252.0,7
+Kakamega,Butere,2024,long_rains,2024-03-31,91.0,14
+Kakamega,Butere,2024,short_rains,2024-09-18,262.0,6
+Kakamega,Butere,2025,long_rains,2025-03-08,67.0,4
+Kakamega,Butere,2025,short_rains,2025-09-11,254.0,22
+Kakamega,Lurambi,1991,long_rains,1991-02-15,46.0,10
+Kakamega,Lurambi,1991,short_rains,1991-09-26,269.0,5
+Kakamega,Lurambi,1992,long_rains,1992-03-17,77.0,13
+Kakamega,Lurambi,1992,short_rains,1992-09-09,253.0,8
+Kakamega,Lurambi,1993,long_rains,1993-03-07,66.0,3
+Kakamega,Lurambi,1993,short_rains,1993-10-29,302.0,12
+Kakamega,Lurambi,1994,long_rains,1994-02-23,54.0,2
+Kakamega,Lurambi,1994,short_rains,1994-09-05,248.0,4
+Kakamega,Lurambi,1995,long_rains,1995-02-15,46.0,6
+Kakamega,Lurambi,1995,short_rains,1995-09-01,244.0,4
+Kakamega,Lurambi,1996,long_rains,1996-02-17,48.0,1
+Kakamega,Lurambi,1996,short_rains,1996-09-15,259.0,7
+Kakamega,Lurambi,1997,long_rains,1997-03-24,83.0,11
+Kakamega,Lurambi,1997,short_rains,1997-10-05,278.0,2
+Kakamega,Lurambi,1998,long_rains,1998-03-07,66.0,6
+Kakamega,Lurambi,1998,short_rains,1998-09-03,246.0,8
+Kakamega,Lurambi,1999,long_rains,1999-03-06,65.0,4
+Kakamega,Lurambi,1999,short_rains,1999-09-01,244.0,5
+Kakamega,Lurambi,2000,long_rains,2000-03-29,89.0,4
+Kakamega,Lurambi,2000,short_rains,2000-10-03,277.0,6
+Kakamega,Lurambi,2001,long_rains,2001-02-22,53.0,4
+Kakamega,Lurambi,2001,short_rains,2001-09-15,258.0,11
+Kakamega,Lurambi,2002,long_rains,2002-03-04,63.0,7
+Kakamega,Lurambi,2002,short_rains,2002-09-12,255.0,5
+Kakamega,Lurambi,2003,long_rains,2003-03-24,83.0,10
+Kakamega,Lurambi,2003,short_rains,2003-10-02,275.0,9
+Kakamega,Lurambi,2004,long_rains,2004-02-16,47.0,4
+Kakamega,Lurambi,2004,short_rains,2004-09-03,247.0,4
+Kakamega,Lurambi,2005,long_rains,2005-02-26,57.0,8
+Kakamega,Lurambi,2005,short_rains,2005-09-07,250.0,15
+Kakamega,Lurambi,2006,long_rains,2006-02-26,57.0,3
+Kakamega,Lurambi,2006,short_rains,2006-10-20,293.0,4
+Kakamega,Lurambi,2007,long_rains,2007-04-09,99.0,8
+Kakamega,Lurambi,2007,short_rains,2007-09-13,256.0,12
+Kakamega,Lurambi,2008,long_rains,2008-03-19,79.0,8
+Kakamega,Lurambi,2008,short_rains,2008-10-02,276.0,6
+Kakamega,Lurambi,2009,long_rains,2009-03-29,88.0,9
+Kakamega,Lurambi,2009,short_rains,2009-09-06,249.0,5
+Kakamega,Lurambi,2010,long_rains,2010-02-16,47.0,7
+Kakamega,Lurambi,2010,short_rains,2010-09-14,257.0,8
+Kakamega,Lurambi,2011,long_rains,2011-03-15,74.0,6
+Kakamega,Lurambi,2011,short_rains,2011-09-03,246.0,2
+Kakamega,Lurambi,2012,long_rains,2012-02-17,48.0,8
+Kakamega,Lurambi,2012,short_rains,2012-09-07,251.0,2
+Kakamega,Lurambi,2013,long_rains,2013-03-10,69.0,5
+Kakamega,Lurambi,2013,short_rains,2013-09-21,264.0,6
+Kakamega,Lurambi,2014,long_rains,2014-03-11,70.0,6
+Kakamega,Lurambi,2014,short_rains,2014-09-03,246.0,4
+Kakamega,Lurambi,2015,long_rains,2015-03-22,81.0,19
+Kakamega,Lurambi,2015,short_rains,2015-10-09,282.0,4
+Kakamega,Lurambi,2016,long_rains,2016-03-07,67.0,6
+Kakamega,Lurambi,2016,short_rains,2016-10-01,275.0,16
+Kakamega,Lurambi,2017,long_rains,2017-04-16,106.0,7
+Kakamega,Lurambi,2017,short_rains,2017-09-01,244.0,21
+Kakamega,Lurambi,2018,long_rains,2018-02-28,59.0,4
+Kakamega,Lurambi,2018,short_rains,2018-10-12,285.0,12
+Kakamega,Lurambi,2019,long_rains,2019-04-20,110.0,18
+Kakamega,Lurambi,2019,short_rains,2019-09-03,246.0,3
+Kakamega,Lurambi,2020,long_rains,2020-03-02,62.0,7
+Kakamega,Lurambi,2020,short_rains,2020-09-06,250.0,15
+Kakamega,Lurambi,2021,long_rains,2021-04-02,92.0,9
+Kakamega,Lurambi,2021,short_rains,2021-09-01,244.0,11
+Kakamega,Lurambi,2022,long_rains,2022-04-14,104.0,16
+Kakamega,Lurambi,2022,short_rains,2022-11-04,308.0,10
+Kakamega,Lurambi,2023,long_rains,2023-03-01,60.0,9
+Kakamega,Lurambi,2023,short_rains,2023-09-05,248.0,12
+Kakamega,Lurambi,2024,long_rains,2024-03-23,83.0,13
+Kakamega,Lurambi,2024,short_rains,2024-09-03,247.0,12
+Kakamega,Lurambi,2025,long_rains,2025-03-09,68.0,8
+Kakamega,Lurambi,2025,short_rains,2025-09-16,259.0,22
+Kakamega,Malava,1991,long_rains,1991-03-27,86.0,10
+Kakamega,Malava,1991,short_rains,,,11
+Kakamega,Malava,1992,long_rains,1992-04-07,98.0,16
+Kakamega,Malava,1992,short_rains,1992-10-18,292.0,13
+Kakamega,Malava,1993,long_rains,1993-04-24,114.0,13
+Kakamega,Malava,1993,short_rains,,,13
+Kakamega,Malava,1994,long_rains,1994-03-26,85.0,5
+Kakamega,Malava,1994,short_rains,1994-10-20,293.0,13
+Kakamega,Malava,1995,long_rains,1995-03-01,60.0,9
+Kakamega,Malava,1995,short_rains,1995-10-23,296.0,19
+Kakamega,Malava,1996,long_rains,1996-03-26,86.0,13
+Kakamega,Malava,1996,short_rains,1996-09-03,247.0,14
+Kakamega,Malava,1997,long_rains,1997-03-28,87.0,23
+Kakamega,Malava,1997,short_rains,1997-10-17,290.0,5
+Kakamega,Malava,1998,long_rains,1998-04-10,100.0,10
+Kakamega,Malava,1998,short_rains,1998-10-08,281.0,43
+Kakamega,Malava,1999,long_rains,1999-03-14,73.0,8
+Kakamega,Malava,1999,short_rains,1999-10-07,280.0,24
+Kakamega,Malava,2000,long_rains,,,13
+Kakamega,Malava,2000,short_rains,2000-09-21,265.0,15
+Kakamega,Malava,2001,long_rains,2001-03-28,87.0,12
+Kakamega,Malava,2001,short_rains,,,30
+Kakamega,Malava,2002,long_rains,2002-04-17,107.0,11
+Kakamega,Malava,2002,short_rains,,,10
+Kakamega,Malava,2003,long_rains,2003-04-15,105.0,20
+Kakamega,Malava,2003,short_rains,,,21
+Kakamega,Malava,2004,long_rains,2004-04-09,100.0,16
+Kakamega,Malava,2004,short_rains,2004-10-30,304.0,20
+Kakamega,Malava,2005,long_rains,2005-04-27,117.0,13
+Kakamega,Malava,2005,short_rains,,,26
+Kakamega,Malava,2006,long_rains,2006-03-01,60.0,9
+Kakamega,Malava,2006,short_rains,2006-09-07,250.0,8
+Kakamega,Malava,2007,long_rains,2007-04-12,102.0,21
+Kakamega,Malava,2007,short_rains,,,20
+Kakamega,Malava,2008,long_rains,2008-03-26,86.0,9
+Kakamega,Malava,2008,short_rains,2008-09-08,252.0,28
+Kakamega,Malava,2009,long_rains,2009-04-12,102.0,15
+Kakamega,Malava,2009,short_rains,2009-09-07,250.0,10
+Kakamega,Malava,2010,long_rains,2010-03-20,79.0,11
+Kakamega,Malava,2010,short_rains,2010-10-06,279.0,12
+Kakamega,Malava,2011,long_rains,2011-05-01,121.0,14
+Kakamega,Malava,2011,short_rains,2011-09-16,259.0,12
+Kakamega,Malava,2012,long_rains,2012-04-16,107.0,27
+Kakamega,Malava,2012,short_rains,2012-10-12,286.0,14
+Kakamega,Malava,2013,long_rains,2013-04-06,96.0,10
+Kakamega,Malava,2013,short_rains,2013-11-08,312.0,12
+Kakamega,Malava,2014,long_rains,2014-03-12,71.0,10
+Kakamega,Malava,2014,short_rains,2014-09-05,248.0,16
+Kakamega,Malava,2015,long_rains,2015-03-22,81.0,21
+Kakamega,Malava,2015,short_rains,2015-11-01,305.0,8
+Kakamega,Malava,2016,long_rains,2016-04-12,103.0,22
+Kakamega,Malava,2016,short_rains,,,32
+Kakamega,Malava,2017,long_rains,2017-03-25,84.0,14
+Kakamega,Malava,2017,short_rains,2017-09-01,244.0,30
+Kakamega,Malava,2018,long_rains,2018-02-27,58.0,5
+Kakamega,Malava,2018,short_rains,2018-09-01,244.0,8
+Kakamega,Malava,2019,long_rains,2019-04-20,110.0,20
+Kakamega,Malava,2019,short_rains,2019-09-02,245.0,4
+Kakamega,Malava,2020,long_rains,2020-03-02,62.0,9
+Kakamega,Malava,2020,short_rains,2020-09-04,248.0,12
+Kakamega,Malava,2021,long_rains,2021-03-29,88.0,9
+Kakamega,Malava,2021,short_rains,2021-09-01,244.0,18
+Kakamega,Malava,2022,long_rains,2022-04-14,104.0,16
+Kakamega,Malava,2022,short_rains,2022-09-01,244.0,13
+Kakamega,Malava,2023,long_rains,2023-03-12,71.0,8
+Kakamega,Malava,2023,short_rains,2023-09-05,248.0,14
+Kakamega,Malava,2024,long_rains,2024-03-24,84.0,19
+Kakamega,Malava,2024,short_rains,2024-09-01,245.0,15
+Kakamega,Malava,2025,long_rains,2025-03-09,68.0,8
+Kakamega,Malava,2025,short_rains,2025-09-10,253.0,32
+Kakamega,Mumias West,1991,long_rains,1991-03-05,64.0,7
+Kakamega,Mumias West,1991,short_rains,1991-09-01,244.0,4
+Kakamega,Mumias West,1992,long_rains,1992-03-29,89.0,12
+Kakamega,Mumias West,1992,short_rains,1992-09-02,246.0,4
+Kakamega,Mumias West,1993,long_rains,1993-03-18,77.0,3
+Kakamega,Mumias West,1993,short_rains,1993-10-15,288.0,7
+Kakamega,Mumias West,1994,long_rains,1994-02-22,53.0,4
+Kakamega,Mumias West,1994,short_rains,1994-09-01,244.0,4
+Kakamega,Mumias West,1995,long_rains,1995-02-15,46.0,5
+Kakamega,Mumias West,1995,short_rains,1995-09-08,251.0,5
+Kakamega,Mumias West,1996,long_rains,1996-02-16,47.0,1
+Kakamega,Mumias West,1996,short_rains,1996-09-01,245.0,7
+Kakamega,Mumias West,1997,long_rains,1997-03-24,83.0,11
+Kakamega,Mumias West,1997,short_rains,1997-10-05,278.0,1
+Kakamega,Mumias West,1998,long_rains,1998-03-06,65.0,5
+Kakamega,Mumias West,1998,short_rains,1998-09-02,245.0,8
+Kakamega,Mumias West,1999,long_rains,1999-02-28,59.0,2
+Kakamega,Mumias West,1999,short_rains,1999-09-01,244.0,3
+Kakamega,Mumias West,2000,long_rains,2000-02-28,59.0,5
+Kakamega,Mumias West,2000,short_rains,2000-09-19,263.0,4
+Kakamega,Mumias West,2001,long_rains,2001-03-06,65.0,5
+Kakamega,Mumias West,2001,short_rains,2001-09-26,269.0,9
+Kakamega,Mumias West,2002,long_rains,2002-03-01,60.0,3
+Kakamega,Mumias West,2002,short_rains,2002-09-12,255.0,3
+Kakamega,Mumias West,2003,long_rains,2003-03-24,83.0,10
+Kakamega,Mumias West,2003,short_rains,2003-09-06,249.0,9
+Kakamega,Mumias West,2004,long_rains,2004-02-27,58.0,6
+Kakamega,Mumias West,2004,short_rains,2004-09-05,249.0,3
+Kakamega,Mumias West,2005,long_rains,2005-02-26,57.0,5
+Kakamega,Mumias West,2005,short_rains,2005-09-10,253.0,13
+Kakamega,Mumias West,2006,long_rains,2006-02-22,53.0,1
+Kakamega,Mumias West,2006,short_rains,2006-09-06,249.0,3
+Kakamega,Mumias West,2007,long_rains,2007-02-24,55.0,5
+Kakamega,Mumias West,2007,short_rains,2007-09-03,246.0,7
+Kakamega,Mumias West,2008,long_rains,2008-03-18,78.0,8
+Kakamega,Mumias West,2008,short_rains,2008-09-05,249.0,9
+Kakamega,Mumias West,2009,long_rains,2009-03-29,88.0,7
+Kakamega,Mumias West,2009,short_rains,2009-09-01,244.0,5
+Kakamega,Mumias West,2010,long_rains,2010-02-16,47.0,5
+Kakamega,Mumias West,2010,short_rains,2010-09-04,247.0,8
+Kakamega,Mumias West,2011,long_rains,2011-03-19,78.0,3
+Kakamega,Mumias West,2011,short_rains,2011-09-01,244.0,3
+Kakamega,Mumias West,2012,long_rains,2012-02-25,56.0,5
+Kakamega,Mumias West,2012,short_rains,2012-09-05,249.0,2
+Kakamega,Mumias West,2013,long_rains,2013-03-07,66.0,6
+Kakamega,Mumias West,2013,short_rains,2013-09-21,264.0,12
+Kakamega,Mumias West,2014,long_rains,2014-03-10,69.0,4
+Kakamega,Mumias West,2014,short_rains,2014-09-03,246.0,3
+Kakamega,Mumias West,2015,long_rains,2015-03-21,80.0,18
+Kakamega,Mumias West,2015,short_rains,2015-10-15,288.0,3
+Kakamega,Mumias West,2016,long_rains,2016-03-08,68.0,6
+Kakamega,Mumias West,2016,short_rains,2016-09-15,259.0,11
+Kakamega,Mumias West,2017,long_rains,2017-02-24,55.0,8
+Kakamega,Mumias West,2017,short_rains,2017-09-02,245.0,21
+Kakamega,Mumias West,2018,long_rains,2018-02-27,58.0,2
+Kakamega,Mumias West,2018,short_rains,2018-10-09,282.0,8
+Kakamega,Mumias West,2019,long_rains,2019-04-09,99.0,17
+Kakamega,Mumias West,2019,short_rains,2019-09-11,254.0,3
+Kakamega,Mumias West,2020,long_rains,2020-02-28,59.0,6
+Kakamega,Mumias West,2020,short_rains,2020-09-06,250.0,12
+Kakamega,Mumias West,2021,long_rains,2021-02-16,47.0,8
+Kakamega,Mumias West,2021,short_rains,2021-09-09,252.0,15
+Kakamega,Mumias West,2022,long_rains,2022-04-13,103.0,16
+Kakamega,Mumias West,2022,short_rains,2022-09-07,250.0,10
+Kakamega,Mumias West,2023,long_rains,2023-02-28,59.0,8
+Kakamega,Mumias West,2023,short_rains,2023-09-05,248.0,11
+Kakamega,Mumias West,2024,long_rains,2024-03-24,84.0,14
+Kakamega,Mumias West,2024,short_rains,2024-09-03,247.0,9
+Kakamega,Mumias West,2025,long_rains,2025-03-09,68.0,8
+Kakamega,Mumias West,2025,short_rains,2025-09-13,256.0,29
+Trans Nzoia,Endebess,1991,long_rains,1991-03-13,72.0,10
+Trans Nzoia,Endebess,1991,short_rains,1991-09-01,244.0,8
+Trans Nzoia,Endebess,1992,long_rains,1992-04-27,118.0,17
+Trans Nzoia,Endebess,1992,short_rains,1992-09-01,245.0,9
+Trans Nzoia,Endebess,1993,long_rains,1993-02-25,56.0,20
+Trans Nzoia,Endebess,1993,short_rains,1993-09-01,244.0,16
+Trans Nzoia,Endebess,1994,long_rains,1994-02-18,49.0,5
+Trans Nzoia,Endebess,1994,short_rains,1994-09-01,244.0,17
+Trans Nzoia,Endebess,1995,long_rains,1995-03-02,61.0,9
+Trans Nzoia,Endebess,1995,short_rains,1995-09-01,244.0,8
+Trans Nzoia,Endebess,1996,long_rains,1996-02-17,48.0,7
+Trans Nzoia,Endebess,1996,short_rains,1996-09-01,245.0,14
+Trans Nzoia,Endebess,1997,long_rains,1997-03-25,84.0,23
+Trans Nzoia,Endebess,1997,short_rains,1997-10-13,286.0,6
+Trans Nzoia,Endebess,1998,long_rains,1998-03-09,68.0,10
+Trans Nzoia,Endebess,1998,short_rains,1998-09-09,252.0,28
+Trans Nzoia,Endebess,1999,long_rains,1999-03-07,66.0,8
+Trans Nzoia,Endebess,1999,short_rains,1999-09-01,244.0,9
+Trans Nzoia,Endebess,2000,long_rains,2000-02-29,60.0,9
+Trans Nzoia,Endebess,2000,short_rains,2000-09-01,245.0,14
+Trans Nzoia,Endebess,2001,long_rains,2001-03-06,65.0,9
+Trans Nzoia,Endebess,2001,short_rains,2001-09-06,249.0,30
+Trans Nzoia,Endebess,2002,long_rains,2002-03-03,62.0,7
+Trans Nzoia,Endebess,2002,short_rains,2002-09-12,255.0,9
+Trans Nzoia,Endebess,2003,long_rains,2003-03-23,82.0,22
+Trans Nzoia,Endebess,2003,short_rains,2003-10-13,286.0,18
+Trans Nzoia,Endebess,2004,long_rains,2004-02-16,47.0,14
+Trans Nzoia,Endebess,2004,short_rains,2004-09-11,255.0,7
+Trans Nzoia,Endebess,2005,long_rains,2005-02-26,57.0,10
+Trans Nzoia,Endebess,2005,short_rains,2005-10-11,284.0,25
+Trans Nzoia,Endebess,2006,long_rains,2006-02-23,54.0,7
+Trans Nzoia,Endebess,2006,short_rains,2006-09-07,250.0,10
+Trans Nzoia,Endebess,2007,long_rains,2007-02-24,55.0,19
+Trans Nzoia,Endebess,2007,short_rains,2007-09-01,244.0,11
+Trans Nzoia,Endebess,2008,long_rains,2008-03-19,79.0,13
+Trans Nzoia,Endebess,2008,short_rains,2008-09-01,245.0,21
+Trans Nzoia,Endebess,2009,long_rains,2009-04-12,102.0,28
+Trans Nzoia,Endebess,2009,short_rains,2009-09-01,244.0,8
+Trans Nzoia,Endebess,2010,long_rains,2010-03-21,80.0,11
+Trans Nzoia,Endebess,2010,short_rains,2010-09-01,244.0,13
+Trans Nzoia,Endebess,2011,long_rains,2011-04-23,113.0,11
+Trans Nzoia,Endebess,2011,short_rains,2011-09-01,244.0,12
+Trans Nzoia,Endebess,2012,long_rains,2012-04-01,92.0,26
+Trans Nzoia,Endebess,2012,short_rains,2012-09-02,246.0,5
+Trans Nzoia,Endebess,2013,long_rains,2013-03-19,78.0,18
+Trans Nzoia,Endebess,2013,short_rains,2013-09-01,244.0,8
+Trans Nzoia,Endebess,2014,long_rains,2014-03-12,71.0,11
+Trans Nzoia,Endebess,2014,short_rains,2014-09-01,244.0,11
+Trans Nzoia,Endebess,2015,long_rains,2015-03-23,82.0,11
+Trans Nzoia,Endebess,2015,short_rains,2015-09-01,244.0,5
+Trans Nzoia,Endebess,2016,long_rains,2016-04-13,104.0,23
+Trans Nzoia,Endebess,2016,short_rains,2016-09-02,246.0,16
+Trans Nzoia,Endebess,2017,long_rains,2017-04-17,107.0,14
+Trans Nzoia,Endebess,2017,short_rains,2017-09-01,244.0,37
+Trans Nzoia,Endebess,2018,long_rains,2018-02-28,59.0,5
+Trans Nzoia,Endebess,2018,short_rains,2018-10-08,281.0,13
+Trans Nzoia,Endebess,2019,long_rains,2019-04-22,112.0,18
+Trans Nzoia,Endebess,2019,short_rains,2019-09-02,245.0,4
+Trans Nzoia,Endebess,2020,long_rains,2020-04-13,104.0,14
+Trans Nzoia,Endebess,2020,short_rains,2020-09-02,246.0,23
+Trans Nzoia,Endebess,2021,long_rains,2021-04-04,94.0,29
+Trans Nzoia,Endebess,2021,short_rains,2021-09-01,244.0,17
+Trans Nzoia,Endebess,2022,long_rains,2022-04-14,104.0,17
+Trans Nzoia,Endebess,2022,short_rains,2022-09-03,246.0,12
+Trans Nzoia,Endebess,2023,long_rains,2023-03-14,73.0,9
+Trans Nzoia,Endebess,2023,short_rains,2023-09-06,249.0,8
+Trans Nzoia,Endebess,2024,long_rains,2024-04-01,92.0,14
+Trans Nzoia,Endebess,2024,short_rains,2024-09-29,273.0,18
+Trans Nzoia,Endebess,2025,long_rains,2025-03-09,68.0,8
+Trans Nzoia,Endebess,2025,short_rains,2025-09-01,244.0,32
+Trans Nzoia,Kiminini,1991,long_rains,1991-03-13,72.0,10
+Trans Nzoia,Kiminini,1991,short_rains,1991-09-01,244.0,7
+Trans Nzoia,Kiminini,1992,long_rains,1992-03-30,90.0,15
+Trans Nzoia,Kiminini,1992,short_rains,1992-09-01,245.0,9
+Trans Nzoia,Kiminini,1993,long_rains,1993-04-24,114.0,12
+Trans Nzoia,Kiminini,1993,short_rains,1993-09-01,244.0,16
+Trans Nzoia,Kiminini,1994,long_rains,1994-03-22,81.0,7
+Trans Nzoia,Kiminini,1994,short_rains,1994-10-20,293.0,22
+Trans Nzoia,Kiminini,1995,long_rains,1995-03-02,61.0,6
+Trans Nzoia,Kiminini,1995,short_rains,1995-09-01,244.0,7
+Trans Nzoia,Kiminini,1996,long_rains,1996-02-17,48.0,7
+Trans Nzoia,Kiminini,1996,short_rains,1996-09-01,245.0,10
+Trans Nzoia,Kiminini,1997,long_rains,1997-03-27,86.0,23
+Trans Nzoia,Kiminini,1997,short_rains,1997-10-10,283.0,3
+Trans Nzoia,Kiminini,1998,long_rains,1998-04-09,99.0,10
+Trans Nzoia,Kiminini,1998,short_rains,1998-09-09,252.0,11
+Trans Nzoia,Kiminini,1999,long_rains,1999-03-09,68.0,8
+Trans Nzoia,Kiminini,1999,short_rains,1999-09-01,244.0,10
+Trans Nzoia,Kiminini,2000,long_rains,2000-04-06,97.0,12
+Trans Nzoia,Kiminini,2000,short_rains,2000-09-01,245.0,9
+Trans Nzoia,Kiminini,2001,long_rains,2001-03-24,83.0,9
+Trans Nzoia,Kiminini,2001,short_rains,2001-09-01,244.0,30
+Trans Nzoia,Kiminini,2002,long_rains,2002-03-03,62.0,8
+Trans Nzoia,Kiminini,2002,short_rains,2002-10-01,274.0,7
+Trans Nzoia,Kiminini,2003,long_rains,2003-04-14,104.0,14
+Trans Nzoia,Kiminini,2003,short_rains,2003-11-14,318.0,10
+Trans Nzoia,Kiminini,2004,long_rains,2004-03-27,87.0,13
+Trans Nzoia,Kiminini,2004,short_rains,2004-09-03,247.0,6
+Trans Nzoia,Kiminini,2005,long_rains,2005-03-01,60.0,9
+Trans Nzoia,Kiminini,2005,short_rains,2005-10-11,284.0,21
+Trans Nzoia,Kiminini,2006,long_rains,2006-02-23,54.0,3
+Trans Nzoia,Kiminini,2006,short_rains,2006-09-06,249.0,13
+Trans Nzoia,Kiminini,2007,long_rains,2007-02-24,55.0,15
+Trans Nzoia,Kiminini,2007,short_rains,2007-09-06,249.0,9
+Trans Nzoia,Kiminini,2008,long_rains,2008-03-14,74.0,9
+Trans Nzoia,Kiminini,2008,short_rains,2008-09-01,245.0,22
+Trans Nzoia,Kiminini,2009,long_rains,2009-04-05,95.0,27
+Trans Nzoia,Kiminini,2009,short_rains,2009-09-05,248.0,9
+Trans Nzoia,Kiminini,2010,long_rains,2010-02-20,51.0,7
+Trans Nzoia,Kiminini,2010,short_rains,2010-09-01,244.0,19
+Trans Nzoia,Kiminini,2011,long_rains,2011-04-24,114.0,6
+Trans Nzoia,Kiminini,2011,short_rains,2011-09-14,257.0,12
+Trans Nzoia,Kiminini,2012,long_rains,2012-04-01,92.0,26
+Trans Nzoia,Kiminini,2012,short_rains,2012-09-02,246.0,4
+Trans Nzoia,Kiminini,2013,long_rains,2013-03-26,85.0,10
+Trans Nzoia,Kiminini,2013,short_rains,2013-09-03,246.0,13
+Trans Nzoia,Kiminini,2014,long_rains,2014-03-12,71.0,11
+Trans Nzoia,Kiminini,2014,short_rains,2014-09-06,249.0,15
+Trans Nzoia,Kiminini,2015,long_rains,2015-03-26,85.0,22
+Trans Nzoia,Kiminini,2015,short_rains,2015-10-13,286.0,4
+Trans Nzoia,Kiminini,2016,long_rains,2016-04-12,103.0,8
+Trans Nzoia,Kiminini,2016,short_rains,2016-09-04,248.0,17
+Trans Nzoia,Kiminini,2017,long_rains,2017-05-07,127.0,9
+Trans Nzoia,Kiminini,2017,short_rains,2017-09-01,244.0,37
+Trans Nzoia,Kiminini,2018,long_rains,2018-02-28,59.0,5
+Trans Nzoia,Kiminini,2018,short_rains,2018-10-08,281.0,16
+Trans Nzoia,Kiminini,2019,long_rains,2019-04-22,112.0,22
+Trans Nzoia,Kiminini,2019,short_rains,2019-09-02,245.0,6
+Trans Nzoia,Kiminini,2020,long_rains,2020-04-15,106.0,11
+Trans Nzoia,Kiminini,2020,short_rains,2020-09-03,247.0,22
+Trans Nzoia,Kiminini,2021,long_rains,2021-04-02,92.0,29
+Trans Nzoia,Kiminini,2021,short_rains,2021-09-01,244.0,16
+Trans Nzoia,Kiminini,2022,long_rains,2022-04-23,113.0,25
+Trans Nzoia,Kiminini,2022,short_rains,2022-10-08,281.0,10
+Trans Nzoia,Kiminini,2023,long_rains,2023-03-22,81.0,11
+Trans Nzoia,Kiminini,2023,short_rains,2023-09-09,252.0,8
+Trans Nzoia,Kiminini,2024,long_rains,2024-04-01,92.0,17
+Trans Nzoia,Kiminini,2024,short_rains,2024-09-28,272.0,16
+Trans Nzoia,Kiminini,2025,long_rains,2025-03-08,67.0,7
+Trans Nzoia,Kiminini,2025,short_rains,2025-09-26,269.0,33
+Trans Nzoia,Saboti,1991,long_rains,1991-03-13,72.0,10
+Trans Nzoia,Saboti,1991,short_rains,1991-09-01,244.0,7
+Trans Nzoia,Saboti,1992,long_rains,1992-03-30,90.0,15
+Trans Nzoia,Saboti,1992,short_rains,1992-09-01,245.0,9
+Trans Nzoia,Saboti,1993,long_rains,1993-04-24,114.0,12
+Trans Nzoia,Saboti,1993,short_rains,1993-09-01,244.0,16
+Trans Nzoia,Saboti,1994,long_rains,1994-03-22,81.0,7
+Trans Nzoia,Saboti,1994,short_rains,1994-10-20,293.0,22
+Trans Nzoia,Saboti,1995,long_rains,1995-03-02,61.0,6
+Trans Nzoia,Saboti,1995,short_rains,1995-09-01,244.0,7
+Trans Nzoia,Saboti,1996,long_rains,1996-02-17,48.0,7
+Trans Nzoia,Saboti,1996,short_rains,1996-09-01,245.0,10
+Trans Nzoia,Saboti,1997,long_rains,1997-03-27,86.0,23
+Trans Nzoia,Saboti,1997,short_rains,1997-10-10,283.0,3
+Trans Nzoia,Saboti,1998,long_rains,1998-04-09,99.0,10
+Trans Nzoia,Saboti,1998,short_rains,1998-09-09,252.0,11
+Trans Nzoia,Saboti,1999,long_rains,1999-03-09,68.0,8
+Trans Nzoia,Saboti,1999,short_rains,1999-09-01,244.0,10
+Trans Nzoia,Saboti,2000,long_rains,2000-04-06,97.0,12
+Trans Nzoia,Saboti,2000,short_rains,2000-09-01,245.0,9
+Trans Nzoia,Saboti,2001,long_rains,2001-03-24,83.0,9
+Trans Nzoia,Saboti,2001,short_rains,2001-09-01,244.0,30
+Trans Nzoia,Saboti,2002,long_rains,2002-03-03,62.0,8
+Trans Nzoia,Saboti,2002,short_rains,2002-10-01,274.0,7
+Trans Nzoia,Saboti,2003,long_rains,2003-04-14,104.0,14
+Trans Nzoia,Saboti,2003,short_rains,2003-11-14,318.0,10
+Trans Nzoia,Saboti,2004,long_rains,2004-03-27,87.0,13
+Trans Nzoia,Saboti,2004,short_rains,2004-09-03,247.0,6
+Trans Nzoia,Saboti,2005,long_rains,2005-03-01,60.0,9
+Trans Nzoia,Saboti,2005,short_rains,2005-10-11,284.0,21
+Trans Nzoia,Saboti,2006,long_rains,2006-02-23,54.0,3
+Trans Nzoia,Saboti,2006,short_rains,2006-09-06,249.0,13
+Trans Nzoia,Saboti,2007,long_rains,2007-02-24,55.0,15
+Trans Nzoia,Saboti,2007,short_rains,2007-09-06,249.0,9
+Trans Nzoia,Saboti,2008,long_rains,2008-03-14,74.0,9
+Trans Nzoia,Saboti,2008,short_rains,2008-09-01,245.0,22
+Trans Nzoia,Saboti,2009,long_rains,2009-04-05,95.0,27
+Trans Nzoia,Saboti,2009,short_rains,2009-09-05,248.0,9
+Trans Nzoia,Saboti,2010,long_rains,2010-02-20,51.0,7
+Trans Nzoia,Saboti,2010,short_rains,2010-09-01,244.0,19
+Trans Nzoia,Saboti,2011,long_rains,2011-04-24,114.0,6
+Trans Nzoia,Saboti,2011,short_rains,2011-09-14,257.0,12
+Trans Nzoia,Saboti,2012,long_rains,2012-04-01,92.0,26
+Trans Nzoia,Saboti,2012,short_rains,2012-09-02,246.0,4
+Trans Nzoia,Saboti,2013,long_rains,2013-03-26,85.0,10
+Trans Nzoia,Saboti,2013,short_rains,2013-09-03,246.0,13
+Trans Nzoia,Saboti,2014,long_rains,2014-03-12,71.0,11
+Trans Nzoia,Saboti,2014,short_rains,2014-09-06,249.0,15
+Trans Nzoia,Saboti,2015,long_rains,2015-03-26,85.0,22
+Trans Nzoia,Saboti,2015,short_rains,2015-10-13,286.0,4
+Trans Nzoia,Saboti,2016,long_rains,2016-04-12,103.0,8
+Trans Nzoia,Saboti,2016,short_rains,2016-09-04,248.0,17
+Trans Nzoia,Saboti,2017,long_rains,2017-04-17,107.0,11
+Trans Nzoia,Saboti,2017,short_rains,2017-09-02,245.0,33
+Trans Nzoia,Saboti,2018,long_rains,2018-02-28,59.0,3
+Trans Nzoia,Saboti,2018,short_rains,2018-10-07,280.0,20
+Trans Nzoia,Saboti,2019,long_rains,2019-04-21,111.0,24
+Trans Nzoia,Saboti,2019,short_rains,2019-09-07,250.0,4
+Trans Nzoia,Saboti,2020,long_rains,2020-04-12,103.0,13
+Trans Nzoia,Saboti,2020,short_rains,2020-09-02,246.0,22
+Trans Nzoia,Saboti,2021,long_rains,2021-04-02,92.0,15
+Trans Nzoia,Saboti,2021,short_rains,2021-09-01,244.0,21
+Trans Nzoia,Saboti,2022,long_rains,2022-04-17,107.0,22
+Trans Nzoia,Saboti,2022,short_rains,2022-09-05,248.0,14
+Trans Nzoia,Saboti,2023,long_rains,2023-03-14,73.0,11
+Trans Nzoia,Saboti,2023,short_rains,2023-09-10,253.0,12
+Trans Nzoia,Saboti,2024,long_rains,2024-03-31,91.0,18
+Trans Nzoia,Saboti,2024,short_rains,2024-09-18,262.0,20
+Trans Nzoia,Saboti,2025,long_rains,2025-03-08,67.0,7
+Trans Nzoia,Saboti,2025,short_rains,2025-09-01,244.0,28

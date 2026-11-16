@@ -1,0 +1,81 @@
+county,subcounty,metric,per_decade,p_value,significant
+Bungoma,Kanduyi,rain,143.591,0.009,True
+Bungoma,Kanduyi,MAM,25.542,0.227,False
+Bungoma,Kanduyi,JJA,55.345,0.002,True
+Bungoma,Kanduyi,OND,37.565,0.129,False
+Bungoma,Kanduyi,tmean,0.239,0.0,True
+Bungoma,Kanduyi,tmax,0.503,0.0,True
+Bungoma,Kanduyi,tmin,0.377,0.0,True
+Bungoma,Kanduyi,et0,52.193,0.0,True
+Bungoma,Kimilili,rain,-250.643,0.001,True
+Bungoma,Kimilili,MAM,-57.75,0.019,True
+Bungoma,Kimilili,JJA,-152.952,0.0,True
+Bungoma,Kimilili,OND,-4.5,0.701,False
+Bungoma,Kimilili,tmean,-0.092,0.187,False
+Bungoma,Kimilili,tmax,0.13,0.034,True
+Bungoma,Kimilili,tmin,-0.001,0.989,False
+Bungoma,Kimilili,et0,67.392,0.0,True
+Bungoma,Webuye East,rain,151.875,0.007,True
+Bungoma,Webuye East,MAM,53.619,0.004,True
+Bungoma,Webuye East,JJA,32.905,0.063,False
+Bungoma,Webuye East,OND,45.6,0.009,True
+Bungoma,Webuye East,tmean,0.254,0.0,True
+Bungoma,Webuye East,tmax,0.549,0.0,True
+Bungoma,Webuye East,tmin,0.496,0.0,True
+Bungoma,Webuye East,et0,63.628,0.0,True
+Kakamega,Butere,rain,-178.333,0.001,True
+Kakamega,Butere,MAM,-46.25,0.037,True
+Kakamega,Butere,JJA,-62.769,0.001,True
+Kakamega,Butere,OND,-17.552,0.386,False
+Kakamega,Butere,tmean,0.281,0.0,True
+Kakamega,Butere,tmax,0.593,0.0,True
+Kakamega,Butere,tmin,0.204,0.0,True
+Kakamega,Butere,et0,30.817,0.0,True
+Kakamega,Lurambi,rain,-144.609,0.0,True
+Kakamega,Lurambi,MAM,-44.273,0.028,True
+Kakamega,Lurambi,JJA,-19.857,0.217,False
+Kakamega,Lurambi,OND,-43.842,0.081,False
+Kakamega,Lurambi,tmean,0.077,0.097,False
+Kakamega,Lurambi,tmax,0.411,0.0,True
+Kakamega,Lurambi,tmin,0.208,0.0,True
+Kakamega,Lurambi,et0,32.611,0.001,True
+Kakamega,Malava,rain,191.692,0.004,True
+Kakamega,Malava,MAM,75.607,0.001,True
+Kakamega,Malava,JJA,34.867,0.055,False
+Kakamega,Malava,OND,65.35,0.002,True
+Kakamega,Malava,tmean,0.081,0.029,True
+Kakamega,Malava,tmax,0.17,0.005,True
+Kakamega,Malava,tmin,0.334,0.0,True
+Kakamega,Malava,et0,44.769,0.0,True
+Kakamega,Mumias West,rain,-185.733,0.0,True
+Kakamega,Mumias West,MAM,-47.692,0.015,True
+Kakamega,Mumias West,JJA,-48.273,0.003,True
+Kakamega,Mumias West,OND,-32.667,0.109,False
+Kakamega,Mumias West,tmean,0.108,0.122,False
+Kakamega,Mumias West,tmax,0.567,0.0,True
+Kakamega,Mumias West,tmin,0.091,0.097,False
+Kakamega,Mumias West,et0,24.967,0.003,True
+Trans Nzoia,Endebess,rain,-362.364,0.003,True
+Trans Nzoia,Endebess,MAM,-73.971,0.022,True
+Trans Nzoia,Endebess,JJA,-144.077,0.0,True
+Trans Nzoia,Endebess,OND,-55.0,0.045,True
+Trans Nzoia,Endebess,tmean,0.054,0.3,False
+Trans Nzoia,Endebess,tmax,0.442,0.0,True
+Trans Nzoia,Endebess,tmin,-0.336,0.03,True
+Trans Nzoia,Endebess,et0,75.464,0.0,True
+Trans Nzoia,Kiminini,rain,-159.462,0.011,True
+Trans Nzoia,Kiminini,MAM,-32.471,0.109,False
+Trans Nzoia,Kiminini,JJA,-59.0,0.005,True
+Trans Nzoia,Kiminini,OND,-29.917,0.196,False
+Trans Nzoia,Kiminini,tmean,0.356,0.0,True
+Trans Nzoia,Kiminini,tmax,0.7,0.0,True
+Trans Nzoia,Kiminini,tmin,0.111,0.042,True
+Trans Nzoia,Kiminini,et0,65.456,0.0,True
+Trans Nzoia,Saboti,rain,-151.385,0.011,True
+Trans Nzoia,Saboti,MAM,-19.143,0.313,False
+Trans Nzoia,Saboti,JJA,-76.063,0.003,True
+Trans Nzoia,Saboti,OND,-18.562,0.426,False
+Trans Nzoia,Saboti,tmean,0.622,0.0,True
+Trans Nzoia,Saboti,tmax,0.92,0.0,True
+Trans Nzoia,Saboti,tmin,0.365,0.0,True
+Trans Nzoia,Saboti,et0,69.176,0.0,True

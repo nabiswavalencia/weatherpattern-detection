@@ -1,0 +1,21 @@
+county,subcounty,var,change_year,p_value,before,after,shift
+Bungoma,Kanduyi,tmean,2014,0.001,20.18,20.74,0.55
+Bungoma,Kanduyi,rain,2017,0.003,1018.33,1558.71,540.38
+Bungoma,Kimilili,tmean,2018,0.009,19.61,19.0,-0.6
+Bungoma,Kimilili,rain,2016,0.001,1820.05,1104.27,-715.78
+Bungoma,Webuye East,tmean,2014,0.001,19.86,20.52,0.66
+Bungoma,Webuye East,rain,2017,0.002,745.96,1334.58,588.62
+Kakamega,Butere,tmean,2009,0.001,20.59,21.08,0.49
+Kakamega,Butere,rain,2013,0.016,1904.82,1556.49,-348.33
+Kakamega,Lurambi,tmean,2002,0.047,19.69,20.0,0.31
+Kakamega,Lurambi,rain,2013,0.007,1684.02,1368.63,-315.39
+Kakamega,Malava,tmean,2002,0.015,19.12,19.47,0.35
+Kakamega,Malava,rain,2017,0.001,745.96,1583.36,837.4
+Kakamega,Mumias West,tmean,2002,0.129,20.87,21.18,0.31
+Kakamega,Mumias West,rain,2013,0.004,1904.82,1540.98,-363.84
+Trans Nzoia,Endebess,tmean,2002,0.264,18.11,18.35,0.24
+Trans Nzoia,Endebess,rain,2016,0.003,2700.48,1693.21,-1007.27
+Trans Nzoia,Kiminini,tmean,2015,0.0,17.92,18.93,1.01
+Trans Nzoia,Kiminini,rain,2016,0.003,1719.14,1200.61,-518.53
+Trans Nzoia,Saboti,tmean,2015,0.0,15.46,17.58,2.11
+Trans Nzoia,Saboti,rain,2016,0.003,1719.14,1207.87,-511.27
